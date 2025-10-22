@@ -1,10 +1,62 @@
 {
-    "grimoirelab": {
-      "meta": {
-        "title": "GrimoireLab"
-      },
-      "git": [
-          "https://github.com/chaoss/grimoirelab.git"
-        ]
-    }
-  }
+        "rsd-engineeringcourse": {
+                "meta": {
+                        "title": "rsd-engineeringcourse"
+                },
+                "git": [
+                        "https://github.com/UCL/rsd-engineeringcourse"
+                ],
+                "github": [
+                        "https://github.com/UCL/rsd-engineeringcourse"
+                ]
+        },
+        "tlomodel": {
+                "git": [
+                        "https://github.com/UCL/TLOModel"
+                ],
+                "github": [
+                        "https://github.com/UCL/TLOModel"
+                ]
+        },
+        "movement": {
+                "git": [
+                        "https://github.com/neuroinformatics-unit/movement"
+                ],
+                "github": [
+                        "https://github.com/neuroinformatics-unit/movement"
+                ]
+        },
+        "STIR": {
+                "git": [
+                        "https://github.com/UCL/STIR"
+                ],
+                "github": [
+                        "https://github.com/UCL/STIR"
+                ]
+        },
+        "uclapi": {
+                "git": [
+                        "https://github.com/uclapi/uclapi"
+                ],
+                "github": [
+                        "https://github.com/uclapi/uclapi"
+                ]
+        },
+        "purify": {
+                "git": [
+                        "https://github.com/astro-informatics/purify"
+                ],
+                "github": [
+                        "https://github.com/astro-informatics/purify"
+                ]
+        },
+        "emap": {
+                "git": [
+                        "https://github.com/SAFEHR-data/EMAP"
+                ],
+                "github": [
+                        "https://github.com/SAFEHR-data/EMAP"
+                ]
+        }
+
+}
