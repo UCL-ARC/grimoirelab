@@ -1,62 +1,4048 @@
 {
-        "rsd-engineeringcourse": {
-                "meta": {
-                        "title": "rsd-engineeringcourse"
-                },
-                "git": [
-                        "https://github.com/UCL/rsd-engineeringcourse"
-                ],
-                "github": [
-                        "https://github.com/UCL/rsd-engineeringcourse"
-                ]
-        },
-        "tlomodel": {
-                "git": [
-                        "https://github.com/UCL/TLOModel"
-                ],
-                "github": [
-                        "https://github.com/UCL/TLOModel"
-                ]
-        },
-        "movement": {
-                "git": [
-                        "https://github.com/neuroinformatics-unit/movement"
-                ],
-                "github": [
-                        "https://github.com/neuroinformatics-unit/movement"
-                ]
-        },
-        "STIR": {
-                "git": [
-                        "https://github.com/UCL/STIR"
-                ],
-                "github": [
-                        "https://github.com/UCL/STIR"
-                ]
-        },
-        "uclapi": {
-                "git": [
-                        "https://github.com/uclapi/uclapi"
-                ],
-                "github": [
-                        "https://github.com/uclapi/uclapi"
-                ]
-        },
-        "purify": {
-                "git": [
-                        "https://github.com/astro-informatics/purify"
-                ],
-                "github": [
-                        "https://github.com/astro-informatics/purify"
-                ]
-        },
-        "emap": {
-                "git": [
-                        "https://github.com/SAFEHR-data/EMAP"
-                ],
-                "github": [
-                        "https://github.com/SAFEHR-data/EMAP"
-                ]
-        }
-
+  "astro-informatics/b3slep": {
+    "github": ["https://github.com/astro-informatics/b3slep"],
+    "git": ["https://github.com/astro-informatics/b3slep"]
+  },
+  "astro-informatics/bianchi": {
+    "github": ["https://github.com/astro-informatics/bianchi"],
+    "git": ["https://github.com/astro-informatics/bianchi"]
+  },
+  "astro-informatics/bianchi2": {
+    "github": ["https://github.com/astro-informatics/bianchi2"],
+    "git": ["https://github.com/astro-informatics/bianchi2"]
+  },
+  "astro-informatics/casacore-1.7.0_patched": {
+    "github": ["https://github.com/astro-informatics/casacore-1.7.0_patched"],
+    "git": ["https://github.com/astro-informatics/casacore-1.7.0_patched"]
+  },
+  "astro-informatics/comb": {
+    "github": ["https://github.com/astro-informatics/comb"],
+    "git": ["https://github.com/astro-informatics/comb"]
+  },
+  "astro-informatics/course_mlbd_images": {
+    "github": ["https://github.com/astro-informatics/course_mlbd_images"],
+    "git": ["https://github.com/astro-informatics/course_mlbd_images"]
+  },
+  "astro-informatics/DarkMappy": {
+    "github": ["https://github.com/astro-informatics/DarkMappy"],
+    "git": ["https://github.com/astro-informatics/DarkMappy"]
+  },
+  "astro-informatics/fastcswt": {
+    "github": ["https://github.com/astro-informatics/fastcswt"],
+    "git": ["https://github.com/astro-informatics/fastcswt"]
+  },
+  "astro-informatics/flag-archive": {
+    "github": ["https://github.com/astro-informatics/flag-archive"],
+    "git": ["https://github.com/astro-informatics/flag-archive"]
+  },
+  "astro-informatics/flaglet-archive": {
+    "github": ["https://github.com/astro-informatics/flaglet-archive"],
+    "git": ["https://github.com/astro-informatics/flaglet-archive"]
+  },
+  "astro-informatics/GLaSS": {
+    "github": ["https://github.com/astro-informatics/GLaSS"],
+    "git": ["https://github.com/astro-informatics/GLaSS"]
+  },
+  "astro-informatics/harmonic": {
+    "github": ["https://github.com/astro-informatics/harmonic"],
+    "git": ["https://github.com/astro-informatics/harmonic"]
+  },
+  "astro-informatics/LeIA": {
+    "github": ["https://github.com/astro-informatics/LeIA"],
+    "git": ["https://github.com/astro-informatics/LeIA"]
+  },
+  "astro-informatics/lexci_models": {
+    "github": ["https://github.com/astro-informatics/lexci_models"],
+    "git": ["https://github.com/astro-informatics/lexci_models"]
+  },
+  "astro-informatics/massmappy": {
+    "github": ["https://github.com/astro-informatics/massmappy"],
+    "git": ["https://github.com/astro-informatics/massmappy"]
+  },
+  "astro-informatics/mcp-rag": {
+    "github": ["https://github.com/astro-informatics/mcp-rag"],
+    "git": ["https://github.com/astro-informatics/mcp-rag"]
+  },
+  "astro-informatics/proxnest": {
+    "github": ["https://github.com/astro-informatics/proxnest"],
+    "git": ["https://github.com/astro-informatics/proxnest"]
+  },
+  "astro-informatics/purify": {
+    "github": ["https://github.com/astro-informatics/purify"],
+    "git": ["https://github.com/astro-informatics/purify"]
+  },
+  "astro-informatics/pyrap-1.1.0_patched": {
+    "github": ["https://github.com/astro-informatics/pyrap-1.1.0_patched"],
+    "git": ["https://github.com/astro-informatics/pyrap-1.1.0_patched"]
+  },
+  "astro-informatics/QuantifAI": {
+    "github": ["https://github.com/astro-informatics/QuantifAI"],
+    "git": ["https://github.com/astro-informatics/QuantifAI"]
+  },
+  "astro-informatics/RequiSim": {
+    "github": ["https://github.com/astro-informatics/RequiSim"],
+    "git": ["https://github.com/astro-informatics/RequiSim"]
+  },
+  "astro-informatics/s2": {
+    "github": ["https://github.com/astro-informatics/s2"],
+    "git": ["https://github.com/astro-informatics/s2"]
+  },
+  "astro-informatics/s2ball": {
+    "github": ["https://github.com/astro-informatics/s2ball"],
+    "git": ["https://github.com/astro-informatics/s2ball"]
+  },
+  "astro-informatics/s2dw": {
+    "github": ["https://github.com/astro-informatics/s2dw"],
+    "git": ["https://github.com/astro-informatics/s2dw"]
+  },
+  "astro-informatics/s2fft": {
+    "github": ["https://github.com/astro-informatics/s2fft"],
+    "git": ["https://github.com/astro-informatics/s2fft"]
+  },
+  "astro-informatics/s2fil": {
+    "github": ["https://github.com/astro-informatics/s2fil"],
+    "git": ["https://github.com/astro-informatics/s2fil"]
+  },
+  "astro-informatics/s2let-archive": {
+    "github": ["https://github.com/astro-informatics/s2let-archive"],
+    "git": ["https://github.com/astro-informatics/s2let-archive"]
+  },
+  "astro-informatics/s2let": {
+    "github": ["https://github.com/astro-informatics/s2let"],
+    "git": ["https://github.com/astro-informatics/s2let"]
+  },
+  "astro-informatics/s2scat": {
+    "github": ["https://github.com/astro-informatics/s2scat"],
+    "git": ["https://github.com/astro-informatics/s2scat"]
+  },
+  "astro-informatics/s2wav": {
+    "github": ["https://github.com/astro-informatics/s2wav"],
+    "git": ["https://github.com/astro-informatics/s2wav"]
+  },
+  "astro-informatics/sbi_tutorial": {
+    "github": ["https://github.com/astro-informatics/sbi_tutorial"],
+    "git": ["https://github.com/astro-informatics/sbi_tutorial"]
+  },
+  "astro-informatics/sleplet": {
+    "github": ["https://github.com/astro-informatics/sleplet"],
+    "git": ["https://github.com/astro-informatics/sleplet"]
+  },
+  "astro-informatics/so3": {
+    "github": ["https://github.com/astro-informatics/so3"],
+    "git": ["https://github.com/astro-informatics/so3"]
+  },
+  "astro-informatics/sopt": {
+    "github": ["https://github.com/astro-informatics/sopt"],
+    "git": ["https://github.com/astro-informatics/sopt"]
+  },
+  "astro-informatics/src_flag": {
+    "github": ["https://github.com/astro-informatics/src_flag"],
+    "git": ["https://github.com/astro-informatics/src_flag"]
+  },
+  "astro-informatics/src_flaglet": {
+    "github": ["https://github.com/astro-informatics/src_flaglet"],
+    "git": ["https://github.com/astro-informatics/src_flaglet"]
+  },
+  "astro-informatics/ssht": {
+    "github": ["https://github.com/astro-informatics/ssht"],
+    "git": ["https://github.com/astro-informatics/ssht"]
+  },
+  "astro-informatics/stringgen": {
+    "github": ["https://github.com/astro-informatics/stringgen"],
+    "git": ["https://github.com/astro-informatics/stringgen"]
+  },
+  "astro-informatics/uber3d": {
+    "github": ["https://github.com/astro-informatics/uber3d"],
+    "git": ["https://github.com/astro-informatics/uber3d"]
+  },
+  "bempp/bempp-archer2": {
+    "github": ["https://github.com/bempp/bempp-archer2"],
+    "git": ["https://github.com/bempp/bempp-archer2"]
+  },
+  "bempp/bempp-book": {
+    "github": ["https://github.com/bempp/bempp-book"],
+    "git": ["https://github.com/bempp/bempp-book"]
+  },
+  "bempp/bempp-cl": {
+    "github": ["https://github.com/bempp/bempp-cl"],
+    "git": ["https://github.com/bempp/bempp-cl"]
+  },
+  "bempp/bempp-legacy": {
+    "github": ["https://github.com/bempp/bempp-legacy"],
+    "git": ["https://github.com/bempp/bempp-legacy"]
+  },
+  "bempp/bempp-rs-benchmarking": {
+    "github": ["https://github.com/bempp/bempp-rs-benchmarking"],
+    "git": ["https://github.com/bempp/bempp-rs-benchmarking"]
+  },
+  "bempp/bempp-rs": {
+    "github": ["https://github.com/bempp/bempp-rs"],
+    "git": ["https://github.com/bempp/bempp-rs"]
+  },
+  "bempp/bempp-website": {
+    "github": ["https://github.com/bempp/bempp-website"],
+    "git": ["https://github.com/bempp/bempp-website"]
+  },
+  "bempp/c-api-tools": {
+    "github": ["https://github.com/bempp/c-api-tools"],
+    "git": ["https://github.com/bempp/c-api-tools"]
+  },
+  "bempp/cheb": {
+    "github": ["https://github.com/bempp/cheb"],
+    "git": ["https://github.com/bempp/cheb"]
+  },
+  "bempp/distributed_tools": {
+    "github": ["https://github.com/bempp/distributed_tools"],
+    "git": ["https://github.com/bempp/distributed_tools"]
+  },
+  "bempp/green-kernels": {
+    "github": ["https://github.com/bempp/green-kernels"],
+    "git": ["https://github.com/bempp/green-kernels"]
+  },
+  "bempp/kifmm": {
+    "github": ["https://github.com/bempp/kifmm"],
+    "git": ["https://github.com/bempp/kifmm"]
+  },
+  "bempp/ndelement": {
+    "github": ["https://github.com/bempp/ndelement"],
+    "git": ["https://github.com/bempp/ndelement"]
+  },
+  "bempp/ndgrid": {
+    "github": ["https://github.com/bempp/ndgrid"],
+    "git": ["https://github.com/bempp/ndgrid"]
+  },
+  "bempp/octree": {
+    "github": ["https://github.com/bempp/octree"],
+    "git": ["https://github.com/bempp/octree"]
+  },
+  "bempp/quadrature": {
+    "github": ["https://github.com/bempp/quadrature"],
+    "git": ["https://github.com/bempp/quadrature"]
+  },
+  "bempp/rsrs": {
+    "github": ["https://github.com/bempp/rsrs"],
+    "git": ["https://github.com/bempp/rsrs"]
+  },
+  "brainglobe/.github": {
+    "github": ["https://github.com/brainglobe/.github"],
+    "git": ["https://github.com/brainglobe/.github"]
+  },
+  "brainglobe/atlas-forge": {
+    "github": ["https://github.com/brainglobe/atlas-forge"],
+    "git": ["https://github.com/brainglobe/atlas-forge"]
+  },
+  "brainglobe/brainglobe-atlasapi": {
+    "github": ["https://github.com/brainglobe/brainglobe-atlasapi"],
+    "git": ["https://github.com/brainglobe/brainglobe-atlasapi"]
+  },
+  "brainglobe/brainglobe-ccf-translator": {
+    "github": ["https://github.com/brainglobe/brainglobe-ccf-translator"],
+    "git": ["https://github.com/brainglobe/brainglobe-ccf-translator"]
+  },
+  "brainglobe/brainglobe-heatmap": {
+    "github": ["https://github.com/brainglobe/brainglobe-heatmap"],
+    "git": ["https://github.com/brainglobe/brainglobe-heatmap"]
+  },
+  "brainglobe/brainglobe-meta": {
+    "github": ["https://github.com/brainglobe/brainglobe-meta"],
+    "git": ["https://github.com/brainglobe/brainglobe-meta"]
+  },
+  "brainglobe/brainglobe-napari-io": {
+    "github": ["https://github.com/brainglobe/brainglobe-napari-io"],
+    "git": ["https://github.com/brainglobe/brainglobe-napari-io"]
+  },
+  "brainglobe/brainglobe-registration": {
+    "github": ["https://github.com/brainglobe/brainglobe-registration"],
+    "git": ["https://github.com/brainglobe/brainglobe-registration"]
+  },
+  "brainglobe/brainglobe-segmentation": {
+    "github": ["https://github.com/brainglobe/brainglobe-segmentation"],
+    "git": ["https://github.com/brainglobe/brainglobe-segmentation"]
+  },
+  "brainglobe/brainglobe-space": {
+    "github": ["https://github.com/brainglobe/brainglobe-space"],
+    "git": ["https://github.com/brainglobe/brainglobe-space"]
+  },
+  "brainglobe/brainglobe-stitch": {
+    "github": ["https://github.com/brainglobe/brainglobe-stitch"],
+    "git": ["https://github.com/brainglobe/brainglobe-stitch"]
+  },
+  "brainglobe/brainglobe-template-builder": {
+    "github": ["https://github.com/brainglobe/brainglobe-template-builder"],
+    "git": ["https://github.com/brainglobe/brainglobe-template-builder"]
+  },
+  "brainglobe/brainglobe-utils": {
+    "github": ["https://github.com/brainglobe/brainglobe-utils"],
+    "git": ["https://github.com/brainglobe/brainglobe-utils"]
+  },
+  "brainglobe/brainglobe-workflows": {
+    "github": ["https://github.com/brainglobe/brainglobe-workflows"],
+    "git": ["https://github.com/brainglobe/brainglobe-workflows"]
+  },
+  "brainglobe/BrainGlobe": {
+    "github": ["https://github.com/brainglobe/BrainGlobe"],
+    "git": ["https://github.com/brainglobe/BrainGlobe"]
+  },
+  "brainglobe/brainglobe.github.io": {
+    "github": ["https://github.com/brainglobe/brainglobe.github.io"],
+    "git": ["https://github.com/brainglobe/brainglobe.github.io"]
+  },
+  "brainglobe/brainreg": {
+    "github": ["https://github.com/brainglobe/brainreg"],
+    "git": ["https://github.com/brainglobe/brainreg"]
+  },
+  "brainglobe/brainrender-napari": {
+    "github": ["https://github.com/brainglobe/brainrender-napari"],
+    "git": ["https://github.com/brainglobe/brainrender-napari"]
+  },
+  "brainglobe/brainrender": {
+    "github": ["https://github.com/brainglobe/brainrender"],
+    "git": ["https://github.com/brainglobe/brainrender"]
+  },
+  "brainglobe/cellfinder": {
+    "github": ["https://github.com/brainglobe/cellfinder"],
+    "git": ["https://github.com/brainglobe/cellfinder"]
+  },
+  "brainglobe/morphapi": {
+    "github": ["https://github.com/brainglobe/morphapi"],
+    "git": ["https://github.com/brainglobe/morphapi"]
+  },
+  "brainglobe/napari-experimental": {
+    "github": ["https://github.com/brainglobe/napari-experimental"],
+    "git": ["https://github.com/brainglobe/napari-experimental"]
+  },
+  "brainglobe/slides-AI2-austria-2025": {
+    "github": ["https://github.com/brainglobe/slides-AI2-austria-2025"],
+    "git": ["https://github.com/brainglobe/slides-AI2-austria-2025"]
+  },
+  "brainglobe/slides-IrvHelgaCooperPrize-2025": {
+    "github": ["https://github.com/brainglobe/slides-IrvHelgaCooperPrize-2025"],
+    "git": ["https://github.com/brainglobe/slides-IrvHelgaCooperPrize-2025"]
+  },
+  "brainglobe/slides-neuropixels-aligning-spikes-histology": {
+    "github": [
+      "https://github.com/brainglobe/slides-neuropixels-aligning-spikes-histology"
+    ],
+    "git": [
+      "https://github.com/brainglobe/slides-neuropixels-aligning-spikes-histology"
+    ]
+  },
+  "chooseadb/chooseadb.github.io": {
+    "github": ["https://github.com/chooseadb/chooseadb.github.io"],
+    "git": ["https://github.com/chooseadb/chooseadb.github.io"]
+  },
+  "chooseadb/Data-Modeling-Course": {
+    "github": ["https://github.com/chooseadb/Data-Modeling-Course"],
+    "git": ["https://github.com/chooseadb/Data-Modeling-Course"]
+  },
+  "chooseadb/talks": {
+    "github": ["https://github.com/chooseadb/talks"],
+    "git": ["https://github.com/chooseadb/talks"]
+  },
+  "destiny-evidence/destiny-repository": {
+    "github": ["https://github.com/destiny-evidence/destiny-repository"],
+    "git": ["https://github.com/destiny-evidence/destiny-repository"]
+  },
+  "destiny-evidence/pf-evaluation": {
+    "github": ["https://github.com/destiny-evidence/pf-evaluation"],
+    "git": ["https://github.com/destiny-evidence/pf-evaluation"]
+  },
+  "destiny-evidence/Relevance-Checker": {
+    "github": ["https://github.com/destiny-evidence/Relevance-Checker"],
+    "git": ["https://github.com/destiny-evidence/Relevance-Checker"]
+  },
+  "destiny-evidence/stopping-methods": {
+    "github": ["https://github.com/destiny-evidence/stopping-methods"],
+    "git": ["https://github.com/destiny-evidence/stopping-methods"]
+  },
+  "destiny-evidence/toy-robot": {
+    "github": ["https://github.com/destiny-evidence/toy-robot"],
+    "git": ["https://github.com/destiny-evidence/toy-robot"]
+  },
+  "destiny-evidence/website": {
+    "github": ["https://github.com/destiny-evidence/website"],
+    "git": ["https://github.com/destiny-evidence/website"]
+  },
+  "epitools/epitools-icy": {
+    "github": ["https://github.com/epitools/epitools-icy"],
+    "git": ["https://github.com/epitools/epitools-icy"]
+  },
+  "epitools/epitools-matlab": {
+    "github": ["https://github.com/epitools/epitools-matlab"],
+    "git": ["https://github.com/epitools/epitools-matlab"]
+  },
+  "epitools/epitools-misc": {
+    "github": ["https://github.com/epitools/epitools-misc"],
+    "git": ["https://github.com/epitools/epitools-misc"]
+  },
+  "epitools/epitools-samples": {
+    "github": ["https://github.com/epitools/epitools-samples"],
+    "git": ["https://github.com/epitools/epitools-samples"]
+  },
+  "epitools/epitools": {
+    "github": ["https://github.com/epitools/epitools"],
+    "git": ["https://github.com/epitools/epitools"]
+  },
+  "epitools/epitools.github.io": {
+    "github": ["https://github.com/epitools/epitools.github.io"],
+    "git": ["https://github.com/epitools/epitools.github.io"]
+  },
+  "epitools/manual_tracking": {
+    "github": ["https://github.com/epitools/manual_tracking"],
+    "git": ["https://github.com/epitools/manual_tracking"]
+  },
+  "epitools/module_projection": {
+    "github": ["https://github.com/epitools/module_projection"],
+    "git": ["https://github.com/epitools/module_projection"]
+  },
+  "epitools/module_segmentation": {
+    "github": ["https://github.com/epitools/module_segmentation"],
+    "git": ["https://github.com/epitools/module_segmentation"]
+  },
+  "epitools/wiki": {
+    "github": ["https://github.com/epitools/wiki"],
+    "git": ["https://github.com/epitools/wiki"]
+  },
+  "floswald/ucl-econ-julia": {
+    "github": ["https://github.com/floswald/ucl-econ-julia"],
+    "git": ["https://github.com/floswald/ucl-econ-julia"]
+  },
+  "gatsbyml/gatsbyml.github.io": {
+    "github": ["https://github.com/gatsbyml/gatsbyml.github.io"],
+    "git": ["https://github.com/gatsbyml/gatsbyml.github.io"]
+  },
+  "GatsbyUnit/gcnu-bridging-2023": {
+    "github": ["https://github.com/GatsbyUnit/gcnu-bridging-2023"],
+    "git": ["https://github.com/GatsbyUnit/gcnu-bridging-2023"]
+  },
+  "glass-dev/discussions": {
+    "github": ["https://github.com/glass-dev/discussions"],
+    "git": ["https://github.com/glass-dev/discussions"]
+  },
+  "glass-dev/glass-pyccl": {
+    "github": ["https://github.com/glass-dev/glass-pyccl"],
+    "git": ["https://github.com/glass-dev/glass-pyccl"]
+  },
+  "glass-dev/glass": {
+    "github": ["https://github.com/glass-dev/glass"],
+    "git": ["https://github.com/glass-dev/glass"]
+  },
+  "glass-dev/glass.ext.camb": {
+    "github": ["https://github.com/glass-dev/glass.ext.camb"],
+    "git": ["https://github.com/glass-dev/glass.ext.camb"]
+  },
+  "glass-dev/glass.ext.pkdgrav": {
+    "github": ["https://github.com/glass-dev/glass.ext.pkdgrav"],
+    "git": ["https://github.com/glass-dev/glass.ext.pkdgrav"]
+  },
+  "glass-dev/glass.ext.template": {
+    "github": ["https://github.com/glass-dev/glass.ext.template"],
+    "git": ["https://github.com/glass-dev/glass.ext.template"]
+  },
+  "glass-dev/rng-jax": {
+    "github": ["https://github.com/glass-dev/rng-jax"],
+    "git": ["https://github.com/glass-dev/rng-jax"]
+  },
+  "glass-dev/transformcl": {
+    "github": ["https://github.com/glass-dev/transformcl"],
+    "git": ["https://github.com/glass-dev/transformcl"]
+  },
+  "heracles-ec/heracles": {
+    "github": ["https://github.com/heracles-ec/heracles"],
+    "git": ["https://github.com/heracles-ec/heracles"]
+  },
+  "HiPCTProject/.github": {
+    "github": ["https://github.com/HiPCTProject/.github"],
+    "git": ["https://github.com/HiPCTProject/.github"]
+  },
+  "HiPCTProject/contrast-lims": {
+    "github": ["https://github.com/HiPCTProject/contrast-lims"],
+    "git": ["https://github.com/HiPCTProject/contrast-lims"]
+  },
+  "HiPCTProject/data-speeds": {
+    "github": ["https://github.com/HiPCTProject/data-speeds"],
+    "git": ["https://github.com/HiPCTProject/data-speeds"]
+  },
+  "HiPCTProject/downsample-jp2s": {
+    "github": ["https://github.com/HiPCTProject/downsample-jp2s"],
+    "git": ["https://github.com/HiPCTProject/downsample-jp2s"]
+  },
+  "HiPCTProject/hipct-reg": {
+    "github": ["https://github.com/HiPCTProject/hipct-reg"],
+    "git": ["https://github.com/HiPCTProject/hipct-reg"]
+  },
+  "HiPCTProject/Kaggle_skeleton_analyses": {
+    "github": ["https://github.com/HiPCTProject/Kaggle_skeleton_analyses"],
+    "git": ["https://github.com/HiPCTProject/Kaggle_skeleton_analyses"]
+  },
+  "HiPCTProject/organ-masker": {
+    "github": ["https://github.com/HiPCTProject/organ-masker"],
+    "git": ["https://github.com/HiPCTProject/organ-masker"]
+  },
+  "HiPCTProject/rebin": {
+    "github": ["https://github.com/HiPCTProject/rebin"],
+    "git": ["https://github.com/HiPCTProject/rebin"]
+  },
+  "HiPCTProject/Skeleton_analysis": {
+    "github": ["https://github.com/HiPCTProject/Skeleton_analysis"],
+    "git": ["https://github.com/HiPCTProject/Skeleton_analysis"]
+  },
+  "HiPCTProject/stack-to-chunk": {
+    "github": ["https://github.com/HiPCTProject/stack-to-chunk"],
+    "git": ["https://github.com/HiPCTProject/stack-to-chunk"]
+  },
+  "HiPCTProject/upsample-zarr": {
+    "github": ["https://github.com/HiPCTProject/upsample-zarr"],
+    "git": ["https://github.com/HiPCTProject/upsample-zarr"]
+  },
+  "HumanOrganAtlas/.github": {
+    "github": ["https://github.com/HumanOrganAtlas/.github"],
+    "git": ["https://github.com/HumanOrganAtlas/.github"]
+  },
+  "HumanOrganAtlas/hoa-paper-stats": {
+    "github": ["https://github.com/HumanOrganAtlas/hoa-paper-stats"],
+    "git": ["https://github.com/HumanOrganAtlas/hoa-paper-stats"]
+  },
+  "HumanOrganAtlas/hoa-tools": {
+    "github": ["https://github.com/HumanOrganAtlas/hoa-tools"],
+    "git": ["https://github.com/HumanOrganAtlas/hoa-tools"]
+  },
+  "HumanOrganAtlas/logos": {
+    "github": ["https://github.com/HumanOrganAtlas/logos"],
+    "git": ["https://github.com/HumanOrganAtlas/logos"]
+  },
+  "HumanOrganAtlas/metadata-schemas": {
+    "github": ["https://github.com/HumanOrganAtlas/metadata-schemas"],
+    "git": ["https://github.com/HumanOrganAtlas/metadata-schemas"]
+  },
+  "inform-health-informatics/audits": {
+    "github": ["https://github.com/inform-health-informatics/audits"],
+    "git": ["https://github.com/inform-health-informatics/audits"]
+  },
+  "inform-health-informatics/clinical-wiki": {
+    "github": ["https://github.com/inform-health-informatics/clinical-wiki"],
+    "git": ["https://github.com/inform-health-informatics/clinical-wiki"]
+  },
+  "inform-health-informatics/coru4cast": {
+    "github": ["https://github.com/inform-health-informatics/coru4cast"],
+    "git": ["https://github.com/inform-health-informatics/coru4cast"]
+  },
+  "inform-health-informatics/emap_documentation": {
+    "github": [
+      "https://github.com/inform-health-informatics/emap_documentation"
+    ],
+    "git": ["https://github.com/inform-health-informatics/emap_documentation"]
+  },
+  "inform-health-informatics/emap-actions": {
+    "github": ["https://github.com/inform-health-informatics/emap-actions"],
+    "git": ["https://github.com/inform-health-informatics/emap-actions"]
+  },
+  "inform-health-informatics/emap-helper": {
+    "github": ["https://github.com/inform-health-informatics/emap-helper"],
+    "git": ["https://github.com/inform-health-informatics/emap-helper"]
+  },
+  "inform-health-informatics/emap-project": {
+    "github": ["https://github.com/inform-health-informatics/emap-project"],
+    "git": ["https://github.com/inform-health-informatics/emap-project"]
+  },
+  "inform-health-informatics/FlowMart": {
+    "github": ["https://github.com/inform-health-informatics/FlowMart"],
+    "git": ["https://github.com/inform-health-informatics/FlowMart"]
+  },
+  "inform-health-informatics/forecastcc": {
+    "github": ["https://github.com/inform-health-informatics/forecastcc"],
+    "git": ["https://github.com/inform-health-informatics/forecastcc"]
+  },
+  "inform-health-informatics/helloUCLH": {
+    "github": ["https://github.com/inform-health-informatics/helloUCLH"],
+    "git": ["https://github.com/inform-health-informatics/helloUCLH"]
+  },
+  "inform-health-informatics/liquibase-hibernate-fk-on-delete": {
+    "github": [
+      "https://github.com/inform-health-informatics/liquibase-hibernate-fk-on-delete"
+    ],
+    "git": [
+      "https://github.com/inform-health-informatics/liquibase-hibernate-fk-on-delete"
+    ]
+  },
+  "inform-health-informatics/omop-uclh": {
+    "github": ["https://github.com/inform-health-informatics/omop-uclh"],
+    "git": ["https://github.com/inform-health-informatics/omop-uclh"]
+  },
+  "inform-health-informatics/try-emap": {
+    "github": ["https://github.com/inform-health-informatics/try-emap"],
+    "git": ["https://github.com/inform-health-informatics/try-emap"]
+  },
+  "inform-health-informatics/xls-muncher-clean": {
+    "github": [
+      "https://github.com/inform-health-informatics/xls-muncher-clean"
+    ],
+    "git": ["https://github.com/inform-health-informatics/xls-muncher-clean"]
+  },
+  "linalg-rs/rlst-metal": {
+    "github": ["https://github.com/linalg-rs/rlst-metal"],
+    "git": ["https://github.com/linalg-rs/rlst-metal"]
+  },
+  "linalg-rs/rlst-suitesparse": {
+    "github": ["https://github.com/linalg-rs/rlst-suitesparse"],
+    "git": ["https://github.com/linalg-rs/rlst-suitesparse"]
+  },
+  "linalg-rs/rlst": {
+    "github": ["https://github.com/linalg-rs/rlst"],
+    "git": ["https://github.com/linalg-rs/rlst"]
+  },
+  "linalg-rs/sandbox": {
+    "github": ["https://github.com/linalg-rs/sandbox"],
+    "git": ["https://github.com/linalg-rs/sandbox"]
+  },
+  "lowe-lab-ucl/arboretum": {
+    "github": ["https://github.com/lowe-lab-ucl/arboretum"],
+    "git": ["https://github.com/lowe-lab-ucl/arboretum"]
+  },
+  "lowe-lab-ucl/btrack-examples": {
+    "github": ["https://github.com/lowe-lab-ucl/btrack-examples"],
+    "git": ["https://github.com/lowe-lab-ucl/btrack-examples"]
+  },
+  "lowe-lab-ucl/btrack-hyperparams": {
+    "github": ["https://github.com/lowe-lab-ucl/btrack-hyperparams"],
+    "git": ["https://github.com/lowe-lab-ucl/btrack-hyperparams"]
+  },
+  "lowe-lab-ucl/cell-cycle-scivision": {
+    "github": ["https://github.com/lowe-lab-ucl/cell-cycle-scivision"],
+    "git": ["https://github.com/lowe-lab-ucl/cell-cycle-scivision"]
+  },
+  "lowe-lab-ucl/CELL0027": {
+    "github": ["https://github.com/lowe-lab-ucl/CELL0027"],
+    "git": ["https://github.com/lowe-lab-ucl/CELL0027"]
+  },
+  "lowe-lab-ucl/cellx-predict-scivision": {
+    "github": ["https://github.com/lowe-lab-ucl/cellx-predict-scivision"],
+    "git": ["https://github.com/lowe-lab-ucl/cellx-predict-scivision"]
+  },
+  "lowe-lab-ucl/cellx-predict": {
+    "github": ["https://github.com/lowe-lab-ucl/cellx-predict"],
+    "git": ["https://github.com/lowe-lab-ucl/cellx-predict"]
+  },
+  "lowe-lab-ucl/cnn-annotator": {
+    "github": ["https://github.com/lowe-lab-ucl/cnn-annotator"],
+    "git": ["https://github.com/lowe-lab-ucl/cnn-annotator"]
+  },
+  "lowe-lab-ucl/ctc-tools": {
+    "github": ["https://github.com/lowe-lab-ucl/ctc-tools"],
+    "git": ["https://github.com/lowe-lab-ucl/ctc-tools"]
+  },
+  "lowe-lab-ucl/napari-trackmate-reader": {
+    "github": ["https://github.com/lowe-lab-ucl/napari-trackmate-reader"],
+    "git": ["https://github.com/lowe-lab-ucl/napari-trackmate-reader"]
+  },
+  "lowe-lab-ucl/octopuslite-reader": {
+    "github": ["https://github.com/lowe-lab-ucl/octopuslite-reader"],
+    "git": ["https://github.com/lowe-lab-ucl/octopuslite-reader"]
+  },
+  "lowe-lab-ucl/protocols": {
+    "github": ["https://github.com/lowe-lab-ucl/protocols"],
+    "git": ["https://github.com/lowe-lab-ucl/protocols"]
+  },
+  "lowe-lab-ucl/segment-classify-track": {
+    "github": ["https://github.com/lowe-lab-ucl/segment-classify-track"],
+    "git": ["https://github.com/lowe-lab-ucl/segment-classify-track"]
+  },
+  "lowe-lab-ucl/simple-unet": {
+    "github": ["https://github.com/lowe-lab-ucl/simple-unet"],
+    "git": ["https://github.com/lowe-lab-ucl/simple-unet"]
+  },
+  "lowe-lab-ucl/trajectoryflow": {
+    "github": ["https://github.com/lowe-lab-ucl/trajectoryflow"],
+    "git": ["https://github.com/lowe-lab-ucl/trajectoryflow"]
+  },
+  "lowe-lab-ucl/unet_segmentation_metrics": {
+    "github": ["https://github.com/lowe-lab-ucl/unet_segmentation_metrics"],
+    "git": ["https://github.com/lowe-lab-ucl/unet_segmentation_metrics"]
+  },
+  "MScEcologyAndDataScienceUCL/.github": {
+    "github": ["https://github.com/MScEcologyAndDataScienceUCL/.github"],
+    "git": ["https://github.com/MScEcologyAndDataScienceUCL/.github"]
+  },
+  "MScEcologyAndDataScienceUCL/binder-env": {
+    "github": ["https://github.com/MScEcologyAndDataScienceUCL/binder-env"],
+    "git": ["https://github.com/MScEcologyAndDataScienceUCL/binder-env"]
+  },
+  "MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment": {
+    "github": [
+      "https://github.com/MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment"
+    ],
+    "git": [
+      "https://github.com/MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment"
+    ]
+  },
+  "MSSLSolar/Solar-Physics-School-Resources": {
+    "github": ["https://github.com/MSSLSolar/Solar-Physics-School-Resources"],
+    "git": ["https://github.com/MSSLSolar/Solar-Physics-School-Resources"]
+  },
+  "MSSLSolar/solarnet-4": {
+    "github": ["https://github.com/MSSLSolar/solarnet-4"],
+    "git": ["https://github.com/MSSLSolar/solarnet-4"]
+  },
+  "MSSLSolar/SPCE0011_Examples": {
+    "github": ["https://github.com/MSSLSolar/SPCE0011_Examples"],
+    "git": ["https://github.com/MSSLSolar/SPCE0011_Examples"]
+  },
+  "MSSLSolar/SPPE": {
+    "github": ["https://github.com/MSSLSolar/SPPE"],
+    "git": ["https://github.com/MSSLSolar/SPPE"]
+  },
+  "neuroinformatics-unit/.github": {
+    "github": ["https://github.com/neuroinformatics-unit/.github"],
+    "git": ["https://github.com/neuroinformatics-unit/.github"]
+  },
+  "neuroinformatics-unit/actions": {
+    "github": ["https://github.com/neuroinformatics-unit/actions"],
+    "git": ["https://github.com/neuroinformatics-unit/actions"]
+  },
+  "neuroinformatics-unit/course-animals-in-motion": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/course-animals-in-motion"
+    ],
+    "git": ["https://github.com/neuroinformatics-unit/course-animals-in-motion"]
+  },
+  "neuroinformatics-unit/course-behaviour-hpc": {
+    "github": ["https://github.com/neuroinformatics-unit/course-behaviour-hpc"],
+    "git": ["https://github.com/neuroinformatics-unit/course-behaviour-hpc"]
+  },
+  "neuroinformatics-unit/course-data-management-neuroblueprint": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/course-data-management-neuroblueprint"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/course-data-management-neuroblueprint"
+    ]
+  },
+  "neuroinformatics-unit/course-extracellular-ephys-analysis": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/course-extracellular-ephys-analysis"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/course-extracellular-ephys-analysis"
+    ]
+  },
+  "neuroinformatics-unit/course-intro-python": {
+    "github": ["https://github.com/neuroinformatics-unit/course-intro-python"],
+    "git": ["https://github.com/neuroinformatics-unit/course-intro-python"]
+  },
+  "neuroinformatics-unit/course-software-good-practice": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/course-software-good-practice"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/course-software-good-practice"
+    ]
+  },
+  "neuroinformatics-unit/datashuttle": {
+    "github": ["https://github.com/neuroinformatics-unit/datashuttle"],
+    "git": ["https://github.com/neuroinformatics-unit/datashuttle"]
+  },
+  "neuroinformatics-unit/DataSquash": {
+    "github": ["https://github.com/neuroinformatics-unit/DataSquash"],
+    "git": ["https://github.com/neuroinformatics-unit/DataSquash"]
+  },
+  "neuroinformatics-unit/derotation": {
+    "github": ["https://github.com/neuroinformatics-unit/derotation"],
+    "git": ["https://github.com/neuroinformatics-unit/derotation"]
+  },
+  "neuroinformatics-unit/ethology": {
+    "github": ["https://github.com/neuroinformatics-unit/ethology"],
+    "git": ["https://github.com/neuroinformatics-unit/ethology"]
+  },
+  "neuroinformatics-unit/fancylog": {
+    "github": ["https://github.com/neuroinformatics-unit/fancylog"],
+    "git": ["https://github.com/neuroinformatics-unit/fancylog"]
+  },
+  "neuroinformatics-unit/gsoc": {
+    "github": ["https://github.com/neuroinformatics-unit/gsoc"],
+    "git": ["https://github.com/neuroinformatics-unit/gsoc"]
+  },
+  "neuroinformatics-unit/HowTo": {
+    "github": ["https://github.com/neuroinformatics-unit/HowTo"],
+    "git": ["https://github.com/neuroinformatics-unit/HowTo"]
+  },
+  "neuroinformatics-unit/In2Research-2024": {
+    "github": ["https://github.com/neuroinformatics-unit/In2Research-2024"],
+    "git": ["https://github.com/neuroinformatics-unit/In2Research-2024"]
+  },
+  "neuroinformatics-unit/movement": {
+    "github": ["https://github.com/neuroinformatics-unit/movement"],
+    "git": ["https://github.com/neuroinformatics-unit/movement"]
+  },
+  "neuroinformatics-unit/NeuroBlueprint": {
+    "github": ["https://github.com/neuroinformatics-unit/NeuroBlueprint"],
+    "git": ["https://github.com/neuroinformatics-unit/NeuroBlueprint"]
+  },
+  "neuroinformatics-unit/neuroinformatics-unit.github.io": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/neuroinformatics-unit.github.io"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/neuroinformatics-unit.github.io"
+    ]
+  },
+  "neuroinformatics-unit/photon-mosaic": {
+    "github": ["https://github.com/neuroinformatics-unit/photon-mosaic"],
+    "git": ["https://github.com/neuroinformatics-unit/photon-mosaic"]
+  },
+  "neuroinformatics-unit/probe-anatomy-alignment": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/probe-anatomy-alignment"
+    ],
+    "git": ["https://github.com/neuroinformatics-unit/probe-anatomy-alignment"]
+  },
+  "neuroinformatics-unit/python-cookiecutter": {
+    "github": ["https://github.com/neuroinformatics-unit/python-cookiecutter"],
+    "git": ["https://github.com/neuroinformatics-unit/python-cookiecutter"]
+  },
+  "neuroinformatics-unit/qt-niu": {
+    "github": ["https://github.com/neuroinformatics-unit/qt-niu"],
+    "git": ["https://github.com/neuroinformatics-unit/qt-niu"]
+  },
+  "neuroinformatics-unit/quarto-presentation-template": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/quarto-presentation-template"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/quarto-presentation-template"
+    ]
+  },
+  "neuroinformatics-unit/runningmouse": {
+    "github": ["https://github.com/neuroinformatics-unit/runningmouse"],
+    "git": ["https://github.com/neuroinformatics-unit/runningmouse"]
+  },
+  "neuroinformatics-unit/scripts": {
+    "github": ["https://github.com/neuroinformatics-unit/scripts"],
+    "git": ["https://github.com/neuroinformatics-unit/scripts"]
+  },
+  "neuroinformatics-unit/slides-behavioural-projects-overview": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-behavioural-projects-overview"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/slides-behavioural-projects-overview"
+    ]
+  },
+  "neuroinformatics-unit/slides-big-imaging-data-osw25": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-big-imaging-data-osw25"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/slides-big-imaging-data-osw25"
+    ]
+  },
+  "neuroinformatics-unit/slides-demo-cellfinder-multiprocessing": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-demo-cellfinder-multiprocessing"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/slides-demo-cellfinder-multiprocessing"
+    ]
+  },
+  "neuroinformatics-unit/slides-histology-project-overview": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-histology-project-overview"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/slides-histology-project-overview"
+    ]
+  },
+  "neuroinformatics-unit/slides-qbatch-template-building": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-qbatch-template-building"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/slides-qbatch-template-building"
+    ]
+  },
+  "neuroinformatics-unit/slides-templates-atlases": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/slides-templates-atlases"
+    ],
+    "git": ["https://github.com/neuroinformatics-unit/slides-templates-atlases"]
+  },
+  "neuroinformatics-unit/slides-ui-ux": {
+    "github": ["https://github.com/neuroinformatics-unit/slides-ui-ux"],
+    "git": ["https://github.com/neuroinformatics-unit/slides-ui-ux"]
+  },
+  "neuroinformatics-unit/slurmio": {
+    "github": ["https://github.com/neuroinformatics-unit/slurmio"],
+    "git": ["https://github.com/neuroinformatics-unit/slurmio"]
+  },
+  "neuroinformatics-unit/smart-kages-movement": {
+    "github": ["https://github.com/neuroinformatics-unit/smart-kages-movement"],
+    "git": ["https://github.com/neuroinformatics-unit/smart-kages-movement"]
+  },
+  "neuroinformatics-unit/software-practice-template": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/software-practice-template"
+    ],
+    "git": [
+      "https://github.com/neuroinformatics-unit/software-practice-template"
+    ]
+  },
+  "neuroinformatics-unit/software-skills": {
+    "github": ["https://github.com/neuroinformatics-unit/software-skills"],
+    "git": ["https://github.com/neuroinformatics-unit/software-skills"]
+  },
+  "neuroinformatics-unit/sphinx-deployment-test": {
+    "github": [
+      "https://github.com/neuroinformatics-unit/sphinx-deployment-test"
+    ],
+    "git": ["https://github.com/neuroinformatics-unit/sphinx-deployment-test"]
+  },
+  "neuroinformatics-unit/spikewrap": {
+    "github": ["https://github.com/neuroinformatics-unit/spikewrap"],
+    "git": ["https://github.com/neuroinformatics-unit/spikewrap"]
+  },
+  "neuroinformatics-unit/students-exercises": {
+    "github": ["https://github.com/neuroinformatics-unit/students-exercises"],
+    "git": ["https://github.com/neuroinformatics-unit/students-exercises"]
+  },
+  "neuroinformatics-unit/swc-slack": {
+    "github": ["https://github.com/neuroinformatics-unit/swc-slack"],
+    "git": ["https://github.com/neuroinformatics-unit/swc-slack"]
+  },
+  "neuroinformatics-unit/zebras-stitching": {
+    "github": ["https://github.com/neuroinformatics-unit/zebras-stitching"],
+    "git": ["https://github.com/neuroinformatics-unit/zebras-stitching"]
+  },
+  "NifTK/apriltags": {
+    "github": ["https://github.com/NifTK/apriltags"],
+    "git": ["https://github.com/NifTK/apriltags"]
+  },
+  "NifTK/KWStyle": {
+    "github": ["https://github.com/NifTK/KWStyle"],
+    "git": ["https://github.com/NifTK/KWStyle"]
+  },
+  "NifTK/LegoIGTWorkshop": {
+    "github": ["https://github.com/NifTK/LegoIGTWorkshop"],
+    "git": ["https://github.com/NifTK/LegoIGTWorkshop"]
+  },
+  "NifTK/NifTK": {
+    "github": ["https://github.com/NifTK/NifTK"],
+    "git": ["https://github.com/NifTK/NifTK"]
+  },
+  "NifTK/NiftyLink": {
+    "github": ["https://github.com/NifTK/NiftyLink"],
+    "git": ["https://github.com/NifTK/NiftyLink"]
+  },
+  "NifTK/NiftyNet_Website": {
+    "github": ["https://github.com/NifTK/NiftyNet_Website"],
+    "git": ["https://github.com/NifTK/NiftyNet_Website"]
+  },
+  "NifTK/XNAT": {
+    "github": ["https://github.com/NifTK/XNAT"],
+    "git": ["https://github.com/NifTK/XNAT"]
+  },
+  "oracc/nammu": {
+    "github": ["https://github.com/oracc/nammu"],
+    "git": ["https://github.com/oracc/nammu"]
+  },
+  "oracc/nisaba": {
+    "github": ["https://github.com/oracc/nisaba"],
+    "git": ["https://github.com/oracc/nisaba"]
+  },
+  "oracc/pyoracc": {
+    "github": ["https://github.com/oracc/pyoracc"],
+    "git": ["https://github.com/oracc/pyoracc"]
+  },
+  "philwilkes/rxp-pipeline": {
+    "github": ["https://github.com/philwilkes/rxp-pipeline"],
+    "git": ["https://github.com/philwilkes/rxp-pipeline"]
+  },
+  "profLewis/GEOG0027": {
+    "github": ["https://github.com/profLewis/GEOG0027"],
+    "git": ["https://github.com/profLewis/GEOG0027"]
+  },
+  "psipred/2017-10-12-crick_institute": {
+    "github": ["https://github.com/psipred/2017-10-12-crick_institute"],
+    "git": ["https://github.com/psipred/2017-10-12-crick_institute"]
+  },
+  "psipred/ansible_rocky": {
+    "github": ["https://github.com/psipred/ansible_rocky"],
+    "git": ["https://github.com/psipred/ansible_rocky"]
+  },
+  "psipred/biod3": {
+    "github": ["https://github.com/psipred/biod3"],
+    "git": ["https://github.com/psipred/biod3"]
+  },
+  "psipred/bioserf": {
+    "github": ["https://github.com/psipred/bioserf"],
+    "git": ["https://github.com/psipred/bioserf"]
+  },
+  "psipred/blast_cache": {
+    "github": ["https://github.com/psipred/blast_cache"],
+    "git": ["https://github.com/psipred/blast_cache"]
+  },
+  "psipred/cgdms": {
+    "github": ["https://github.com/psipred/cgdms"],
+    "git": ["https://github.com/psipred/cgdms"]
+  },
+  "psipred/DeepCov": {
+    "github": ["https://github.com/psipred/DeepCov"],
+    "git": ["https://github.com/psipred/DeepCov"]
+  },
+  "psipred/DeepMetaPSICOV": {
+    "github": ["https://github.com/psipred/DeepMetaPSICOV"],
+    "git": ["https://github.com/psipred/DeepMetaPSICOV"]
+  },
+  "psipred/disopred": {
+    "github": ["https://github.com/psipred/disopred"],
+    "git": ["https://github.com/psipred/disopred"]
+  },
+  "psipred/DMPfold": {
+    "github": ["https://github.com/psipred/DMPfold"],
+    "git": ["https://github.com/psipred/DMPfold"]
+  },
+  "psipred/DMPfold2": {
+    "github": ["https://github.com/psipred/DMPfold2"],
+    "git": ["https://github.com/psipred/DMPfold2"]
+  },
+  "psipred/DMPmetal": {
+    "github": ["https://github.com/psipred/DMPmetal"],
+    "git": ["https://github.com/psipred/DMPmetal"]
+  },
+  "psipred/domain_word2vec_scripts": {
+    "github": ["https://github.com/psipred/domain_word2vec_scripts"],
+    "git": ["https://github.com/psipred/domain_word2vec_scripts"]
+  },
+  "psipred/dompred": {
+    "github": ["https://github.com/psipred/dompred"],
+    "git": ["https://github.com/psipred/dompred"]
+  },
+  "psipred/eigenthreader": {
+    "github": ["https://github.com/psipred/eigenthreader"],
+    "git": ["https://github.com/psipred/eigenthreader"]
+  },
+  "psipred/FFPred": {
+    "github": ["https://github.com/psipred/FFPred"],
+    "git": ["https://github.com/psipred/FFPred"]
+  },
+  "psipred/FFPredGAN": {
+    "github": ["https://github.com/psipred/FFPredGAN"],
+    "git": ["https://github.com/psipred/FFPredGAN"]
+  },
+  "psipred/fragfold_idp": {
+    "github": ["https://github.com/psipred/fragfold_idp"],
+    "git": ["https://github.com/psipred/fragfold_idp"]
+  },
+  "psipred/fragfold": {
+    "github": ["https://github.com/psipred/fragfold"],
+    "git": ["https://github.com/psipred/fragfold"]
+  },
+  "psipred/GsRCL": {
+    "github": ["https://github.com/psipred/GsRCL"],
+    "git": ["https://github.com/psipred/GsRCL"]
+  },
+  "psipred/hspred": {
+    "github": ["https://github.com/psipred/hspred"],
+    "git": ["https://github.com/psipred/hspred"]
+  },
+  "psipred/MemEmbed": {
+    "github": ["https://github.com/psipred/MemEmbed"],
+    "git": ["https://github.com/psipred/MemEmbed"]
+  },
+  "psipred/mempack": {
+    "github": ["https://github.com/psipred/mempack"],
+    "git": ["https://github.com/psipred/mempack"]
+  },
+  "psipred/memsat-svm-pore": {
+    "github": ["https://github.com/psipred/memsat-svm-pore"],
+    "git": ["https://github.com/psipred/memsat-svm-pore"]
+  },
+  "psipred/MemSatSVM": {
+    "github": ["https://github.com/psipred/MemSatSVM"],
+    "git": ["https://github.com/psipred/MemSatSVM"]
+  },
+  "psipred/merizo_search": {
+    "github": ["https://github.com/psipred/merizo_search"],
+    "git": ["https://github.com/psipred/merizo_search"]
+  },
+  "psipred/Merizo": {
+    "github": ["https://github.com/psipred/Merizo"],
+    "git": ["https://github.com/psipred/Merizo"]
+  },
+  "psipred/metapsicov": {
+    "github": ["https://github.com/psipred/metapsicov"],
+    "git": ["https://github.com/psipred/metapsicov"]
+  },
+  "psipred/metsite": {
+    "github": ["https://github.com/psipred/metsite"],
+    "git": ["https://github.com/psipred/metsite"]
+  },
+  "psipred/p53_docking": {
+    "github": ["https://github.com/psipred/p53_docking"],
+    "git": ["https://github.com/psipred/p53_docking"]
+  },
+  "psipred/PFP": {
+    "github": ["https://github.com/psipred/PFP"],
+    "git": ["https://github.com/psipred/PFP"]
+  },
+  "psipred/pGenTHREADER": {
+    "github": ["https://github.com/psipred/pGenTHREADER"],
+    "git": ["https://github.com/psipred/pGenTHREADER"]
+  },
+  "psipred/profile_drift_new": {
+    "github": ["https://github.com/psipred/profile_drift_new"],
+    "git": ["https://github.com/psipred/profile_drift_new"]
+  },
+  "psipred/protein-vae": {
+    "github": ["https://github.com/psipred/protein-vae"],
+    "git": ["https://github.com/psipred/protein-vae"]
+  },
+  "psipred/psicov": {
+    "github": ["https://github.com/psipred/psicov"],
+    "git": ["https://github.com/psipred/psicov"]
+  },
+  "psipred/psipred_branding": {
+    "github": ["https://github.com/psipred/psipred_branding"],
+    "git": ["https://github.com/psipred/psipred_branding"]
+  },
+  "psipred/psipred_react": {
+    "github": ["https://github.com/psipred/psipred_react"],
+    "git": ["https://github.com/psipred/psipred_react"]
+  },
+  "psipred/psipred": {
+    "github": ["https://github.com/psipred/psipred"],
+    "git": ["https://github.com/psipred/psipred"]
+  },
+  "psipred/s4pred": {
+    "github": ["https://github.com/psipred/s4pred"],
+    "git": ["https://github.com/psipred/s4pred"]
+  },
+  "psipred/server_update": {
+    "github": ["https://github.com/psipred/server_update"],
+    "git": ["https://github.com/psipred/server_update"]
+  },
+  "psipred/simple_modeller": {
+    "github": ["https://github.com/psipred/simple_modeller"],
+    "git": ["https://github.com/psipred/simple_modeller"]
+  },
+  "psipred/STRING2GO": {
+    "github": ["https://github.com/psipred/STRING2GO"],
+    "git": ["https://github.com/psipred/STRING2GO"]
+  },
+  "psipred/SummerProjects": {
+    "github": ["https://github.com/psipred/SummerProjects"],
+    "git": ["https://github.com/psipred/SummerProjects"]
+  },
+  "psipred/ted-tools": {
+    "github": ["https://github.com/psipred/ted-tools"],
+    "git": ["https://github.com/psipred/ted-tools"]
+  },
+  "psipred/web_server_scripts": {
+    "github": ["https://github.com/psipred/web_server_scripts"],
+    "git": ["https://github.com/psipred/web_server_scripts"]
+  },
+  "psipred/webserver_test_dbs": {
+    "github": ["https://github.com/psipred/webserver_test_dbs"],
+    "git": ["https://github.com/psipred/webserver_test_dbs"]
+  },
+  "SAFEHR-data/.github": {
+    "github": ["https://github.com/SAFEHR-data/.github"],
+    "git": ["https://github.com/SAFEHR-data/.github"]
+  },
+  "SAFEHR-data/arfn_hic_pbmpc_analysis": {
+    "github": ["https://github.com/SAFEHR-data/arfn_hic_pbmpc_analysis"],
+    "git": ["https://github.com/SAFEHR-data/arfn_hic_pbmpc_analysis"]
+  },
+  "SAFEHR-data/Azure-Bootstrap": {
+    "github": ["https://github.com/SAFEHR-data/Azure-Bootstrap"],
+    "git": ["https://github.com/SAFEHR-data/Azure-Bootstrap"]
+  },
+  "SAFEHR-data/AzureTRE-Notebooks": {
+    "github": ["https://github.com/SAFEHR-data/AzureTRE-Notebooks"],
+    "git": ["https://github.com/SAFEHR-data/AzureTRE-Notebooks"]
+  },
+  "SAFEHR-data/Dash-Seedling": {
+    "github": ["https://github.com/SAFEHR-data/Dash-Seedling"],
+    "git": ["https://github.com/SAFEHR-data/Dash-Seedling"]
+  },
+  "SAFEHR-data/Data-Access-Request-Seedling": {
+    "github": ["https://github.com/SAFEHR-data/Data-Access-Request-Seedling"],
+    "git": ["https://github.com/SAFEHR-data/Data-Access-Request-Seedling"]
+  },
+  "SAFEHR-data/Data-Seedling": {
+    "github": ["https://github.com/SAFEHR-data/Data-Seedling"],
+    "git": ["https://github.com/SAFEHR-data/Data-Seedling"]
+  },
+  "SAFEHR-data/doc-demo": {
+    "github": ["https://github.com/SAFEHR-data/doc-demo"],
+    "git": ["https://github.com/SAFEHR-data/doc-demo"]
+  },
+  "SAFEHR-data/drugsatc": {
+    "github": ["https://github.com/SAFEHR-data/drugsatc"],
+    "git": ["https://github.com/SAFEHR-data/drugsatc"]
+  },
+  "SAFEHR-data/emap": {
+    "github": ["https://github.com/SAFEHR-data/emap"],
+    "git": ["https://github.com/SAFEHR-data/emap"]
+  },
+  "SAFEHR-data/FlowEHR-Data-Pot": {
+    "github": ["https://github.com/SAFEHR-data/FlowEHR-Data-Pot"],
+    "git": ["https://github.com/SAFEHR-data/FlowEHR-Data-Pot"]
+  },
+  "SAFEHR-data/FlowEHR": {
+    "github": ["https://github.com/SAFEHR-data/FlowEHR"],
+    "git": ["https://github.com/SAFEHR-data/FlowEHR"]
+  },
+  "SAFEHR-data/flowehr.io": {
+    "github": ["https://github.com/SAFEHR-data/flowehr.io"],
+    "git": ["https://github.com/SAFEHR-data/flowehr.io"]
+  },
+  "SAFEHR-data/Garden-Path": {
+    "github": ["https://github.com/SAFEHR-data/Garden-Path"],
+    "git": ["https://github.com/SAFEHR-data/Garden-Path"]
+  },
+  "SAFEHR-data/hic_pbmpc_analysis": {
+    "github": ["https://github.com/SAFEHR-data/hic_pbmpc_analysis"],
+    "git": ["https://github.com/SAFEHR-data/hic_pbmpc_analysis"]
+  },
+  "SAFEHR-data/Model-Seedling": {
+    "github": ["https://github.com/SAFEHR-data/Model-Seedling"],
+    "git": ["https://github.com/SAFEHR-data/Model-Seedling"]
+  },
+  "SAFEHR-data/omop-bundles": {
+    "github": ["https://github.com/SAFEHR-data/omop-bundles"],
+    "git": ["https://github.com/SAFEHR-data/omop-bundles"]
+  },
+  "SAFEHR-data/omop-carpentries": {
+    "github": ["https://github.com/SAFEHR-data/omop-carpentries"],
+    "git": ["https://github.com/SAFEHR-data/omop-carpentries"]
+  },
+  "SAFEHR-data/omop-vocabs-processed": {
+    "github": ["https://github.com/SAFEHR-data/omop-vocabs-processed"],
+    "git": ["https://github.com/SAFEHR-data/omop-vocabs-processed"]
+  },
+  "SAFEHR-data/omopcat": {
+    "github": ["https://github.com/SAFEHR-data/omopcat"],
+    "git": ["https://github.com/SAFEHR-data/omopcat"]
+  },
+  "SAFEHR-data/omopcept": {
+    "github": ["https://github.com/SAFEHR-data/omopcept"],
+    "git": ["https://github.com/SAFEHR-data/omopcept"]
+  },
+  "SAFEHR-data/PIXL-DSH-ACCESS": {
+    "github": ["https://github.com/SAFEHR-data/PIXL-DSH-ACCESS"],
+    "git": ["https://github.com/SAFEHR-data/PIXL-DSH-ACCESS"]
+  },
+  "SAFEHR-data/PIXL": {
+    "github": ["https://github.com/SAFEHR-data/PIXL"],
+    "git": ["https://github.com/SAFEHR-data/PIXL"]
+  },
+  "SAFEHR-data/Powershell-Scripts": {
+    "github": ["https://github.com/SAFEHR-data/Powershell-Scripts"],
+    "git": ["https://github.com/SAFEHR-data/Powershell-Scripts"]
+  },
+  "SAFEHR-data/pyonb": {
+    "github": ["https://github.com/SAFEHR-data/pyonb"],
+    "git": ["https://github.com/SAFEHR-data/pyonb"]
+  },
+  "SAFEHR-data/React-FastAPI-AAD-Seedling": {
+    "github": ["https://github.com/SAFEHR-data/React-FastAPI-AAD-Seedling"],
+    "git": ["https://github.com/SAFEHR-data/React-FastAPI-AAD-Seedling"]
+  },
+  "SAFEHR-data/safehr-data": {
+    "github": ["https://github.com/SAFEHR-data/safehr-data"],
+    "git": ["https://github.com/SAFEHR-data/safehr-data"]
+  },
+  "SAFEHR-data/Satellite": {
+    "github": ["https://github.com/SAFEHR-data/Satellite"],
+    "git": ["https://github.com/SAFEHR-data/Satellite"]
+  },
+  "SAFEHR-data/starter-guide": {
+    "github": ["https://github.com/SAFEHR-data/starter-guide"],
+    "git": ["https://github.com/SAFEHR-data/starter-guide"]
+  },
+  "SAFEHR-data/uclh-research-discovery": {
+    "github": ["https://github.com/SAFEHR-data/uclh-research-discovery"],
+    "git": ["https://github.com/SAFEHR-data/uclh-research-discovery"]
+  },
+  "SAFEHR-data/uclh-synthetic-data": {
+    "github": ["https://github.com/SAFEHR-data/uclh-synthetic-data"],
+    "git": ["https://github.com/SAFEHR-data/uclh-synthetic-data"]
+  },
+  "SainsburyWellcomeCentre/ads131m04_rpi": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/ads131m04_rpi"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/ads131m04_rpi"]
+  },
+  "SainsburyWellcomeCentre/aeon_acquisition": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_acquisition"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_acquisition"]
+  },
+  "SainsburyWellcomeCentre/aeon_api": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_api"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_api"]
+  },
+  "SainsburyWellcomeCentre/aeon_blog": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_blog"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_blog"]
+  },
+  "SainsburyWellcomeCentre/aeon_docs": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_docs"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_docs"]
+  },
+  "SainsburyWellcomeCentre/aeon_exp_state_machine": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/aeon_exp_state_machine"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_exp_state_machine"]
+  },
+  "SainsburyWellcomeCentre/aeon_experiments": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_experiments"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_experiments"]
+  },
+  "SainsburyWellcomeCentre/aeon_feeder_fix": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder_fix"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder_fix"]
+  },
+  "SainsburyWellcomeCentre/aeon_feeder_v2": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder_v2"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder_v2"]
+  },
+  "SainsburyWellcomeCentre/aeon_feeder": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_feeder"]
+  },
+  "SainsburyWellcomeCentre/aeon_habitat": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_habitat"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_habitat"]
+  },
+  "SainsburyWellcomeCentre/aeon_lineardrive": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_lineardrive"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_lineardrive"]
+  },
+  "SainsburyWellcomeCentre/aeon_mecha": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_mecha"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_mecha"]
+  },
+  "SainsburyWellcomeCentre/aeon_schema": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_schema"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_schema"]
+  },
+  "SainsburyWellcomeCentre/aeon_scratchpad": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_scratchpad"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_scratchpad"]
+  },
+  "SainsburyWellcomeCentre/aeon_sleap_processing": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/aeon_sleap_processing"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_sleap_processing"]
+  },
+  "SainsburyWellcomeCentre/aeon_template": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aeon_template"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aeon_template"]
+  },
+  "SainsburyWellcomeCentre/AllenBrainAPI": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/AllenBrainAPI"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/AllenBrainAPI"]
+  },
+  "SainsburyWellcomeCentre/aMAP_validation": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/aMAP_validation"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/aMAP_validation"]
+  },
+  "SainsburyWellcomeCentre/ara_tools": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/ara_tools"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/ara_tools"]
+  },
+  "SainsburyWellcomeCentre/arduino_code_club": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/arduino_code_club"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/arduino_code_club"]
+  },
+  "SainsburyWellcomeCentre/autofinder": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/autofinder"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/autofinder"]
+  },
+  "SainsburyWellcomeCentre/crabs-exploration": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/crabs-exploration"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/crabs-exploration"]
+  },
+  "SainsburyWellcomeCentre/fab-pcb-lib": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/fab-pcb-lib"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/fab-pcb-lib"]
+  },
+  "SainsburyWellcomeCentre/FabLab_laser_sign": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/FabLab_laser_sign"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/FabLab_laser_sign"]
+  },
+  "SainsburyWellcomeCentre/fablab": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/fablab"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/fablab"]
+  },
+  "SainsburyWellcomeCentre/FNT_behavior_analysis": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/FNT_behavior_analysis"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/FNT_behavior_analysis"]
+  },
+  "SainsburyWellcomeCentre/FNT_probe_localization": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/FNT_probe_localization"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/FNT_probe_localization"]
+  },
+  "SainsburyWellcomeCentre/FNT_timestamp_alignment": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/FNT_timestamp_alignment"
+    ],
+    "git": [
+      "https://github.com/SainsburyWellcomeCentre/FNT_timestamp_alignment"
+    ]
+  },
+  "SainsburyWellcomeCentre/graphic_resources": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/graphic_resources"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/graphic_resources"]
+  },
+  "SainsburyWellcomeCentre/hypnose-analysis": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/hypnose-analysis"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/hypnose-analysis"]
+  },
+  "SainsburyWellcomeCentre/hypnose": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/hypnose"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/hypnose"]
+  },
+  "SainsburyWellcomeCentre/lasagna": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/lasagna"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/lasagna"]
+  },
+  "SainsburyWellcomeCentre/lenzietal2022_lse_figures": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/lenzietal2022_lse_figures"
+    ],
+    "git": [
+      "https://github.com/SainsburyWellcomeCentre/lenzietal2022_lse_figures"
+    ]
+  },
+  "SainsburyWellcomeCentre/looming_spots": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/looming_spots"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/looming_spots"]
+  },
+  "SainsburyWellcomeCentre/masiv": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/masiv"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/masiv"]
+  },
+  "SainsburyWellcomeCentre/microharp": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/microharp"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/microharp"]
+  },
+  "SainsburyWellcomeCentre/monitor_blanking": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/monitor_blanking"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/monitor_blanking"]
+  },
+  "SainsburyWellcomeCentre/NeuralPlayground": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/NeuralPlayground"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/NeuralPlayground"]
+  },
+  "SainsburyWellcomeCentre/neuriteTracer": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/neuriteTracer"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/neuriteTracer"]
+  },
+  "SainsburyWellcomeCentre/neuroPico": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/neuroPico"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/neuroPico"]
+  },
+  "SainsburyWellcomeCentre/pcb_thermistor_amplifier": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/pcb_thermistor_amplifier"
+    ],
+    "git": [
+      "https://github.com/SainsburyWellcomeCentre/pcb_thermistor_amplifier"
+    ]
+  },
+  "SainsburyWellcomeCentre/PhieldsExperiments": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/PhieldsExperiments"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/PhieldsExperiments"]
+  },
+  "SainsburyWellcomeCentre/pmt_controller": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/pmt_controller"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/pmt_controller"]
+  },
+  "SainsburyWellcomeCentre/Pyper": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/Pyper"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/Pyper"]
+  },
+  "SainsburyWellcomeCentre/rc2_analysis_videos": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/rc2_analysis_videos"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_analysis_videos"]
+  },
+  "SainsburyWellcomeCentre/rc2_analysis": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/rc2_analysis"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_analysis"]
+  },
+  "SainsburyWellcomeCentre/rc2_figures": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/rc2_figures"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_figures"]
+  },
+  "SainsburyWellcomeCentre/rc2_matlab": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/rc2_matlab"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_matlab"]
+  },
+  "SainsburyWellcomeCentre/rc2_visual_stimuli": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/rc2_visual_stimuli"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_visual_stimuli"]
+  },
+  "SainsburyWellcomeCentre/rc2_vr": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/rc2_vr"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/rc2_vr"]
+  },
+  "SainsburyWellcomeCentre/RCWG": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/RCWG"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/RCWG"]
+  },
+  "SainsburyWellcomeCentre/sequences_behaviour": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/sequences_behaviour"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/sequences_behaviour"]
+  },
+  "SainsburyWellcomeCentre/sequences_histology": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/sequences_histology"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/sequences_histology"]
+  },
+  "SainsburyWellcomeCentre/sequences_neuropixel_preprocess": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/sequences_neuropixel_preprocess"
+    ],
+    "git": [
+      "https://github.com/SainsburyWellcomeCentre/sequences_neuropixel_preprocess"
+    ]
+  },
+  "SainsburyWellcomeCentre/sequences_run_PPseq": {
+    "github": [
+      "https://github.com/SainsburyWellcomeCentre/sequences_run_PPseq"
+    ],
+    "git": ["https://github.com/SainsburyWellcomeCentre/sequences_run_PPseq"]
+  },
+  "SainsburyWellcomeCentre/sjbpod": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/sjbpod"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/sjbpod"]
+  },
+  "SainsburyWellcomeCentre/SJLab_APE_paper": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/SJLab_APE_paper"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/SJLab_APE_paper"]
+  },
+  "SainsburyWellcomeCentre/socket-feeder": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/socket-feeder"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/socket-feeder"]
+  },
+  "SainsburyWellcomeCentre/spikeGUI": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/spikeGUI"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/spikeGUI"]
+  },
+  "SainsburyWellcomeCentre/swc-computing": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/swc-computing"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/swc-computing"]
+  },
+  "SainsburyWellcomeCentre/WAZP": {
+    "github": ["https://github.com/SainsburyWellcomeCentre/WAZP"],
+    "git": ["https://github.com/SainsburyWellcomeCentre/WAZP"]
+  },
+  "SciKit-Surgery/.github": {
+    "github": ["https://github.com/SciKit-Surgery/.github"],
+    "git": ["https://github.com/SciKit-Surgery/.github"]
+  },
+  "SciKit-Surgery/ArUcoPatternMaker": {
+    "github": ["https://github.com/SciKit-Surgery/ArUcoPatternMaker"],
+    "git": ["https://github.com/SciKit-Surgery/ArUcoPatternMaker"]
+  },
+  "SciKit-Surgery/bard-data": {
+    "github": ["https://github.com/SciKit-Surgery/bard-data"],
+    "git": ["https://github.com/SciKit-Surgery/bard-data"]
+  },
+  "SciKit-Surgery/Blood-Vessel-Game": {
+    "github": ["https://github.com/SciKit-Surgery/Blood-Vessel-Game"],
+    "git": ["https://github.com/SciKit-Surgery/Blood-Vessel-Game"]
+  },
+  "SciKit-Surgery/browser_ar": {
+    "github": ["https://github.com/SciKit-Surgery/browser_ar"],
+    "git": ["https://github.com/SciKit-Surgery/browser_ar"]
+  },
+  "SciKit-Surgery/cmicHACKS2": {
+    "github": ["https://github.com/SciKit-Surgery/cmicHACKS2"],
+    "git": ["https://github.com/SciKit-Surgery/cmicHACKS2"]
+  },
+  "SciKit-Surgery/cut-the-string": {
+    "github": ["https://github.com/SciKit-Surgery/cut-the-string"],
+    "git": ["https://github.com/SciKit-Surgery/cut-the-string"]
+  },
+  "SciKit-Surgery/glenoidplanefitting": {
+    "github": ["https://github.com/SciKit-Surgery/glenoidplanefitting"],
+    "git": ["https://github.com/SciKit-Surgery/glenoidplanefitting"]
+  },
+  "SciKit-Surgery/imshowTk": {
+    "github": ["https://github.com/SciKit-Surgery/imshowTk"],
+    "git": ["https://github.com/SciKit-Surgery/imshowTk"]
+  },
+  "SciKit-Surgery/luminance_study": {
+    "github": ["https://github.com/SciKit-Surgery/luminance_study"],
+    "git": ["https://github.com/SciKit-Surgery/luminance_study"]
+  },
+  "SciKit-Surgery/PythonTemplate": {
+    "github": ["https://github.com/SciKit-Surgery/PythonTemplate"],
+    "git": ["https://github.com/SciKit-Surgery/PythonTemplate"]
+  },
+  "SciKit-Surgery/rsecon23-workshop41": {
+    "github": ["https://github.com/SciKit-Surgery/rsecon23-workshop41"],
+    "git": ["https://github.com/SciKit-Surgery/rsecon23-workshop41"]
+  },
+  "SciKit-Surgery/scikit-surgery-evaluation": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgery-evaluation"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgery-evaluation"]
+  },
+  "SciKit-Surgery/scikit-surgery-rse2021-poster": {
+    "github": [
+      "https://github.com/SciKit-Surgery/scikit-surgery-rse2021-poster"
+    ],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgery-rse2021-poster"]
+  },
+  "SciKit-Surgery/scikit-surgery-stats": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgery-stats"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgery-stats"]
+  },
+  "SciKit-Surgery/scikit-surgery": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgery"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgery"]
+  },
+  "SciKit-Surgery/scikit-surgeryarucotracker": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryarucotracker"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryarucotracker"]
+  },
+  "SciKit-Surgery/SciKit-SurgeryAudio": {
+    "github": ["https://github.com/SciKit-Surgery/SciKit-SurgeryAudio"],
+    "git": ["https://github.com/SciKit-Surgery/SciKit-SurgeryAudio"]
+  },
+  "SciKit-Surgery/scikit-surgerybard": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerybard"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerybard"]
+  },
+  "SciKit-Surgery/scikit-surgerybk": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerybk"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerybk"]
+  },
+  "SciKit-Surgery/scikit-surgerycalibration": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerycalibration"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerycalibration"]
+  },
+  "SciKit-Surgery/scikit-surgerycore": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerycore"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerycore"]
+  },
+  "SciKit-Surgery/scikit-surgeryfred-paper": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryfred-paper"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryfred-paper"]
+  },
+  "SciKit-Surgery/scikit-surgeryfred": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryfred"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryfred"]
+  },
+  "SciKit-Surgery/scikit-surgeryfredmatplotlib": {
+    "github": [
+      "https://github.com/SciKit-Surgery/scikit-surgeryfredmatplotlib"
+    ],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryfredmatplotlib"]
+  },
+  "SciKit-Surgery/scikit-surgeryglenoid-paper": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryglenoid-paper"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryglenoid-paper"]
+  },
+  "SciKit-Surgery/scikit-surgeryimage": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryimage"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryimage"]
+  },
+  "SciKit-Surgery/scikit-surgerynditracker": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerynditracker"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerynditracker"]
+  },
+  "SciKit-Surgery/scikit-surgeryopencvcpp": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryopencvcpp"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryopencvcpp"]
+  },
+  "SciKit-Surgery/SciKit-SurgeryParallax": {
+    "github": ["https://github.com/SciKit-Surgery/SciKit-SurgeryParallax"],
+    "git": ["https://github.com/SciKit-Surgery/SciKit-SurgeryParallax"]
+  },
+  "SciKit-Surgery/scikit-surgeryspeech": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryspeech"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryspeech"]
+  },
+  "SciKit-Surgery/scikit-surgerytf": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerytf"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerytf"]
+  },
+  "SciKit-Surgery/scikit-surgerytorch": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerytorch"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerytorch"]
+  },
+  "SciKit-Surgery/scikit-surgerytrackervisualisation": {
+    "github": [
+      "https://github.com/SciKit-Surgery/scikit-surgerytrackervisualisation"
+    ],
+    "git": [
+      "https://github.com/SciKit-Surgery/scikit-surgerytrackervisualisation"
+    ]
+  },
+  "SciKit-Surgery/scikit-surgerytutorial01": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerytutorial01"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerytutorial01"]
+  },
+  "SciKit-Surgery/scikit-surgerytutorial02": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgerytutorial02"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgerytutorial02"]
+  },
+  "SciKit-Surgery/scikit-surgeryutils": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryutils"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryutils"]
+  },
+  "SciKit-Surgery/scikit-surgeryvtk": {
+    "github": ["https://github.com/SciKit-Surgery/scikit-surgeryvtk"],
+    "git": ["https://github.com/SciKit-Surgery/scikit-surgeryvtk"]
+  },
+  "SciKit-Surgery/snappysonic": {
+    "github": ["https://github.com/SciKit-Surgery/snappysonic"],
+    "git": ["https://github.com/SciKit-Surgery/snappysonic"]
+  },
+  "SciKit-Surgery/sustainable-pkg-stats": {
+    "github": ["https://github.com/SciKit-Surgery/sustainable-pkg-stats"],
+    "git": ["https://github.com/SciKit-Surgery/sustainable-pkg-stats"]
+  },
+  "SciKit-Surgery/TrackingCollar": {
+    "github": ["https://github.com/SciKit-Surgery/TrackingCollar"],
+    "git": ["https://github.com/SciKit-Surgery/TrackingCollar"]
+  },
+  "SciKit-Surgery/were-hiring": {
+    "github": ["https://github.com/SciKit-Surgery/were-hiring"],
+    "git": ["https://github.com/SciKit-Surgery/were-hiring"]
+  },
+  "SciKit-Surgery/what-is-it": {
+    "github": ["https://github.com/SciKit-Surgery/what-is-it"],
+    "git": ["https://github.com/SciKit-Surgery/what-is-it"]
+  },
+  "sense-base/.github": {
+    "github": ["https://github.com/sense-base/.github"],
+    "git": ["https://github.com/sense-base/.github"]
+  },
+  "sense-base/base": {
+    "github": ["https://github.com/sense-base/base"],
+    "git": ["https://github.com/sense-base/base"]
+  },
+  "sense-base/boost_1_58_0": {
+    "github": ["https://github.com/sense-base/boost_1_58_0"],
+    "git": ["https://github.com/sense-base/boost_1_58_0"]
+  },
+  "sense-base/sense_acquisition_gtech": {
+    "github": ["https://github.com/sense-base/sense_acquisition_gtech"],
+    "git": ["https://github.com/sense-base/sense_acquisition_gtech"]
+  },
+  "sense-base/sense_bridge": {
+    "github": ["https://github.com/sense-base/sense_bridge"],
+    "git": ["https://github.com/sense-base/sense_bridge"]
+  },
+  "sense-base/sense_eeg_cpp": {
+    "github": ["https://github.com/sense-base/sense_eeg_cpp"],
+    "git": ["https://github.com/sense-base/sense_eeg_cpp"]
+  },
+  "sense-base/sense_eeg": {
+    "github": ["https://github.com/sense-base/sense_eeg"],
+    "git": ["https://github.com/sense-base/sense_eeg"]
+  },
+  "sense-base/sense_msgs": {
+    "github": ["https://github.com/sense-base/sense_msgs"],
+    "git": ["https://github.com/sense-base/sense_msgs"]
+  },
+  "sense-base/sense_pose": {
+    "github": ["https://github.com/sense-base/sense_pose"],
+    "git": ["https://github.com/sense-base/sense_pose"]
+  },
+  "sense-base/sense_template": {
+    "github": ["https://github.com/sense-base/sense_template"],
+    "git": ["https://github.com/sense-base/sense_template"]
+  },
+  "SilverLabUCL/20200611-Ankur-dataclub": {
+    "github": ["https://github.com/SilverLabUCL/20200611-Ankur-dataclub"],
+    "git": ["https://github.com/SilverLabUCL/20200611-Ankur-dataclub"]
+  },
+  "SilverLabUCL/AOL_API": {
+    "github": ["https://github.com/SilverLabUCL/AOL_API"],
+    "git": ["https://github.com/SilverLabUCL/AOL_API"]
+  },
+  "SilverLabUCL/Christmass-Party-Quiz-Game": {
+    "github": ["https://github.com/SilverLabUCL/Christmass-Party-Quiz-Game"],
+    "git": ["https://github.com/SilverLabUCL/Christmass-Party-Quiz-Game"]
+  },
+  "SilverLabUCL/D3D_eLife": {
+    "github": ["https://github.com/SilverLabUCL/D3D_eLife"],
+    "git": ["https://github.com/SilverLabUCL/D3D_eLife"]
+  },
+  "SilverLabUCL/D3D": {
+    "github": ["https://github.com/SilverLabUCL/D3D"],
+    "git": ["https://github.com/SilverLabUCL/D3D"]
+  },
+  "SilverLabUCL/Data-Analysis-Chiara": {
+    "github": ["https://github.com/SilverLabUCL/Data-Analysis-Chiara"],
+    "git": ["https://github.com/SilverLabUCL/Data-Analysis-Chiara"]
+  },
+  "SilverLabUCL/MatSilverLabNWB": {
+    "github": ["https://github.com/SilverLabUCL/MatSilverLabNWB"],
+    "git": ["https://github.com/SilverLabUCL/MatSilverLabNWB"]
+  },
+  "SilverLabUCL/MF-GC-network-backprop-data": {
+    "github": ["https://github.com/SilverLabUCL/MF-GC-network-backprop-data"],
+    "git": ["https://github.com/SilverLabUCL/MF-GC-network-backprop-data"]
+  },
+  "SilverLabUCL/MF-GC-network-backprop-public": {
+    "github": ["https://github.com/SilverLabUCL/MF-GC-network-backprop-public"],
+    "git": ["https://github.com/SilverLabUCL/MF-GC-network-backprop-public"]
+  },
+  "SilverLabUCL/MossyFibres": {
+    "github": ["https://github.com/SilverLabUCL/MossyFibres"],
+    "git": ["https://github.com/SilverLabUCL/MossyFibres"]
+  },
+  "SilverLabUCL/NeuroMatic": {
+    "github": ["https://github.com/SilverLabUCL/NeuroMatic"],
+    "git": ["https://github.com/SilverLabUCL/NeuroMatic"]
+  },
+  "SilverLabUCL/OSBB": {
+    "github": ["https://github.com/SilverLabUCL/OSBB"],
+    "git": ["https://github.com/SilverLabUCL/OSBB"]
+  },
+  "SilverLabUCL/ParallelFibres": {
+    "github": ["https://github.com/SilverLabUCL/ParallelFibres"],
+    "git": ["https://github.com/SilverLabUCL/ParallelFibres"]
+  },
+  "SilverLabUCL/pyNeuroMatic": {
+    "github": ["https://github.com/SilverLabUCL/pyNeuroMatic"],
+    "git": ["https://github.com/SilverLabUCL/pyNeuroMatic"]
+  },
+  "SilverLabUCL/PySilverLabNWB": {
+    "github": ["https://github.com/SilverLabUCL/PySilverLabNWB"],
+    "git": ["https://github.com/SilverLabUCL/PySilverLabNWB"]
+  },
+  "SilverLabUCL/ray-model-and-scripts-for-Valera-Neufeldt-et-al": {
+    "github": [
+      "https://github.com/SilverLabUCL/ray-model-and-scripts-for-Valera-Neufeldt-et-al"
+    ],
+    "git": [
+      "https://github.com/SilverLabUCL/ray-model-and-scripts-for-Valera-Neufeldt-et-al"
+    ]
+  },
+  "SilverLabUCL/RewardConditioning": {
+    "github": ["https://github.com/SilverLabUCL/RewardConditioning"],
+    "git": ["https://github.com/SilverLabUCL/RewardConditioning"]
+  },
+  "SilverLabUCL/SilverLab_NWBv1": {
+    "github": ["https://github.com/SilverLabUCL/SilverLab_NWBv1"],
+    "git": ["https://github.com/SilverLabUCL/SilverLab_NWBv1"]
+  },
+  "SilverLabUCL/silverlab-aol-microscope-controller": {
+    "github": [
+      "https://github.com/SilverLabUCL/silverlab-aol-microscope-controller"
+    ],
+    "git": [
+      "https://github.com/SilverLabUCL/silverlab-aol-microscope-controller"
+    ]
+  },
+  "SilverLabUCL/SilverLab-Microscope-Software": {
+    "github": ["https://github.com/SilverLabUCL/SilverLab-Microscope-Software"],
+    "git": ["https://github.com/SilverLabUCL/SilverLab-Microscope-Software"]
+  },
+  "SilverLabUCL/SilverLab-Microscope": {
+    "github": ["https://github.com/SilverLabUCL/SilverLab-Microscope"],
+    "git": ["https://github.com/SilverLabUCL/SilverLab-Microscope"]
+  },
+  "SilverLabUCL/SilverLabDataOSBTest": {
+    "github": ["https://github.com/SilverLabUCL/SilverLabDataOSBTest"],
+    "git": ["https://github.com/SilverLabUCL/SilverLabDataOSBTest"]
+  },
+  "SilverLabUCL/SilverLabDotOrg": {
+    "github": ["https://github.com/SilverLabUCL/SilverLabDotOrg"],
+    "git": ["https://github.com/SilverLabUCL/SilverLabDotOrg"]
+  },
+  "SilverLabUCL/simplethesis": {
+    "github": ["https://github.com/SilverLabUCL/simplethesis"],
+    "git": ["https://github.com/SilverLabUCL/simplethesis"]
+  },
+  "SilverLabUCL/Visual-Stimuli": {
+    "github": ["https://github.com/SilverLabUCL/Visual-Stimuli"],
+    "git": ["https://github.com/SilverLabUCL/Visual-Stimuli"]
+  },
+  "Team-RADDISH/ParticleDA-UseCases": {
+    "github": ["https://github.com/Team-RADDISH/ParticleDA-UseCases"],
+    "git": ["https://github.com/Team-RADDISH/ParticleDA-UseCases"]
+  },
+  "Team-RADDISH/ParticleDA.jl": {
+    "github": ["https://github.com/Team-RADDISH/ParticleDA.jl"],
+    "git": ["https://github.com/Team-RADDISH/ParticleDA.jl"]
+  },
+  "tls-tools-ucl/.github": {
+    "github": ["https://github.com/tls-tools-ucl/.github"],
+    "git": ["https://github.com/tls-tools-ucl/.github"]
+  },
+  "tls-tools-ucl/branch-extraction": {
+    "github": ["https://github.com/tls-tools-ucl/branch-extraction"],
+    "git": ["https://github.com/tls-tools-ucl/branch-extraction"]
+  },
+  "tls-tools-ucl/optqsm": {
+    "github": ["https://github.com/tls-tools-ucl/optqsm"],
+    "git": ["https://github.com/tls-tools-ucl/optqsm"]
+  },
+  "tls-tools-ucl/qrdar": {
+    "github": ["https://github.com/tls-tools-ucl/qrdar"],
+    "git": ["https://github.com/tls-tools-ucl/qrdar"]
+  },
+  "tls-tools-ucl/rxp-pipeline": {
+    "github": ["https://github.com/tls-tools-ucl/rxp-pipeline"],
+    "git": ["https://github.com/tls-tools-ucl/rxp-pipeline"]
+  },
+  "tls-tools-ucl/TLS2trees": {
+    "github": ["https://github.com/tls-tools-ucl/TLS2trees"],
+    "git": ["https://github.com/tls-tools-ucl/TLS2trees"]
+  },
+  "tls-tools-ucl/TLSeparation": {
+    "github": ["https://github.com/tls-tools-ucl/TLSeparation"],
+    "git": ["https://github.com/tls-tools-ucl/TLSeparation"]
+  },
+  "tls-tools-ucl/treeseg": {
+    "github": ["https://github.com/tls-tools-ucl/treeseg"],
+    "git": ["https://github.com/tls-tools-ucl/treeseg"]
+  },
+  "tls-tools-ucl/utilities": {
+    "github": ["https://github.com/tls-tools-ucl/utilities"],
+    "git": ["https://github.com/tls-tools-ucl/utilities"]
+  },
+  "UCL-ARC/.github": {
+    "github": ["https://github.com/UCL-ARC/.github"],
+    "git": ["https://github.com/UCL-ARC/.github"]
+  },
+  "UCL-ARC/2022-07-26-UCL-HPC-online": {
+    "github": ["https://github.com/UCL-ARC/2022-07-26-UCL-HPC-online"],
+    "git": ["https://github.com/UCL-ARC/2022-07-26-UCL-HPC-online"]
+  },
+  "UCL-ARC/2023-06-UCL-HPC-online": {
+    "github": ["https://github.com/UCL-ARC/2023-06-UCL-HPC-online"],
+    "git": ["https://github.com/UCL-ARC/2023-06-UCL-HPC-online"]
+  },
+  "UCL-ARC/2024-02-UCL-HPC-onsite": {
+    "github": ["https://github.com/UCL-ARC/2024-02-UCL-HPC-onsite"],
+    "git": ["https://github.com/UCL-ARC/2024-02-UCL-HPC-onsite"]
+  },
+  "UCL-ARC/2024-07-24-UCL-SWC": {
+    "github": ["https://github.com/UCL-ARC/2024-07-24-UCL-SWC"],
+    "git": ["https://github.com/UCL-ARC/2024-07-24-UCL-SWC"]
+  },
+  "UCL-ARC/2024-11-27-hpcc-online": {
+    "github": ["https://github.com/UCL-ARC/2024-11-27-hpcc-online"],
+    "git": ["https://github.com/UCL-ARC/2024-11-27-hpcc-online"]
+  },
+  "UCL-ARC/2025-05-27-UCL-SWC": {
+    "github": ["https://github.com/UCL-ARC/2025-05-27-UCL-SWC"],
+    "git": ["https://github.com/UCL-ARC/2025-05-27-UCL-SWC"]
+  },
+  "UCL-ARC/2025-07-16-debugging-workhop": {
+    "github": ["https://github.com/UCL-ARC/2025-07-16-debugging-workhop"],
+    "git": ["https://github.com/UCL-ARC/2025-07-16-debugging-workhop"]
+  },
+  "UCL-ARC/2025-07-30-ucl-online": {
+    "github": ["https://github.com/UCL-ARC/2025-07-30-ucl-online"],
+    "git": ["https://github.com/UCL-ARC/2025-07-30-ucl-online"]
+  },
+  "UCL-ARC/2025-09-22-UCL-mol-cell-bio": {
+    "github": ["https://github.com/UCL-ARC/2025-09-22-UCL-mol-cell-bio"],
+    "git": ["https://github.com/UCL-ARC/2025-09-22-UCL-mol-cell-bio"]
+  },
+  "UCL-ARC/2025-09-25-UCL": {
+    "github": ["https://github.com/UCL-ARC/2025-09-25-UCL"],
+    "git": ["https://github.com/UCL-ARC/2025-09-25-UCL"]
+  },
+  "UCL-ARC/2025-11-05-ucl-online": {
+    "github": ["https://github.com/UCL-ARC/2025-11-05-ucl-online"],
+    "git": ["https://github.com/UCL-ARC/2025-11-05-ucl-online"]
+  },
+  "UCL-ARC/AI-for-good": {
+    "github": ["https://github.com/UCL-ARC/AI-for-good"],
+    "git": ["https://github.com/UCL-ARC/AI-for-good"]
+  },
+  "UCL-ARC/assets-and-templates": {
+    "github": ["https://github.com/UCL-ARC/assets-and-templates"],
+    "git": ["https://github.com/UCL-ARC/assets-and-templates"]
+  },
+  "UCL-ARC/aws-ec2-example": {
+    "github": ["https://github.com/UCL-ARC/aws-ec2-example"],
+    "git": ["https://github.com/UCL-ARC/aws-ec2-example"]
+  },
+  "UCL-ARC/carpentries-quarto": {
+    "github": ["https://github.com/UCL-ARC/carpentries-quarto"],
+    "git": ["https://github.com/UCL-ARC/carpentries-quarto"]
+  },
+  "UCL-ARC/ccmi-cdt.org": {
+    "github": ["https://github.com/UCL-ARC/ccmi-cdt.org"],
+    "git": ["https://github.com/UCL-ARC/ccmi-cdt.org"]
+  },
+  "UCL-ARC/cjgl_mpi4py_test": {
+    "github": ["https://github.com/UCL-ARC/cjgl_mpi4py_test"],
+    "git": ["https://github.com/UCL-ARC/cjgl_mpi4py_test"]
+  },
+  "UCL-ARC/cloudlabs": {
+    "github": ["https://github.com/UCL-ARC/cloudlabs"],
+    "git": ["https://github.com/UCL-ARC/cloudlabs"]
+  },
+  "UCL-ARC/condenser-mkdocs": {
+    "github": ["https://github.com/UCL-ARC/condenser-mkdocs"],
+    "git": ["https://github.com/UCL-ARC/condenser-mkdocs"]
+  },
+  "UCL-ARC/containers-at-arc": {
+    "github": ["https://github.com/UCL-ARC/containers-at-arc"],
+    "git": ["https://github.com/UCL-ARC/containers-at-arc"]
+  },
+  "UCL-ARC/CragPolicyExceptionCmd": {
+    "github": ["https://github.com/UCL-ARC/CragPolicyExceptionCmd"],
+    "git": ["https://github.com/UCL-ARC/CragPolicyExceptionCmd"]
+  },
+  "UCL-ARC/csml-reading-group": {
+    "github": ["https://github.com/UCL-ARC/csml-reading-group"],
+    "git": ["https://github.com/UCL-ARC/csml-reading-group"]
+  },
+  "UCL-ARC/data-stewards-coding-group": {
+    "github": ["https://github.com/UCL-ARC/data-stewards-coding-group"],
+    "git": ["https://github.com/UCL-ARC/data-stewards-coding-group"]
+  },
+  "UCL-ARC/dirac-swift-api": {
+    "github": ["https://github.com/UCL-ARC/dirac-swift-api"],
+    "git": ["https://github.com/UCL-ARC/dirac-swift-api"]
+  },
+  "UCL-ARC/django-react-cookiecutter": {
+    "github": ["https://github.com/UCL-ARC/django-react-cookiecutter"],
+    "git": ["https://github.com/UCL-ARC/django-react-cookiecutter"]
+  },
+  "UCL-ARC/doc-chat": {
+    "github": ["https://github.com/UCL-ARC/doc-chat"],
+    "git": ["https://github.com/UCL-ARC/doc-chat"]
+  },
+  "UCL-ARC/encrypt_folders": {
+    "github": ["https://github.com/UCL-ARC/encrypt_folders"],
+    "git": ["https://github.com/UCL-ARC/encrypt_folders"]
+  },
+  "UCL-ARC/engineering-for-datascience": {
+    "github": ["https://github.com/UCL-ARC/engineering-for-datascience"],
+    "git": ["https://github.com/UCL-ARC/engineering-for-datascience"]
+  },
+  "UCL-ARC/Enigma-PD-WML": {
+    "github": ["https://github.com/UCL-ARC/Enigma-PD-WML"],
+    "git": ["https://github.com/UCL-ARC/Enigma-PD-WML"]
+  },
+  "UCL-ARC/fortran-tooling": {
+    "github": ["https://github.com/UCL-ARC/fortran-tooling"],
+    "git": ["https://github.com/UCL-ARC/fortran-tooling"]
+  },
+  "UCL-ARC/fortran-unit-testing-exercises": {
+    "github": ["https://github.com/UCL-ARC/fortran-unit-testing-exercises"],
+    "git": ["https://github.com/UCL-ARC/fortran-unit-testing-exercises"]
+  },
+  "UCL-ARC/fortran-unit-testing-lesson": {
+    "github": ["https://github.com/UCL-ARC/fortran-unit-testing-lesson"],
+    "git": ["https://github.com/UCL-ARC/fortran-unit-testing-lesson"]
+  },
+  "UCL-ARC/functional-programming-for-rses": {
+    "github": ["https://github.com/UCL-ARC/functional-programming-for-rses"],
+    "git": ["https://github.com/UCL-ARC/functional-programming-for-rses"]
+  },
+  "UCL-ARC/game_engines_for_research": {
+    "github": ["https://github.com/UCL-ARC/game_engines_for_research"],
+    "git": ["https://github.com/UCL-ARC/game_engines_for_research"]
+  },
+  "UCL-ARC/getcwd-autoretry-preload": {
+    "github": ["https://github.com/UCL-ARC/getcwd-autoretry-preload"],
+    "git": ["https://github.com/UCL-ARC/getcwd-autoretry-preload"]
+  },
+  "UCL-ARC/go-clustertools": {
+    "github": ["https://github.com/UCL-ARC/go-clustertools"],
+    "git": ["https://github.com/UCL-ARC/go-clustertools"]
+  },
+  "UCL-ARC/good-first-issue-hackathons": {
+    "github": ["https://github.com/UCL-ARC/good-first-issue-hackathons"],
+    "git": ["https://github.com/UCL-ARC/good-first-issue-hackathons"]
+  },
+  "UCL-ARC/graffinity-cdi-llm-api": {
+    "github": ["https://github.com/UCL-ARC/graffinity-cdi-llm-api"],
+    "git": ["https://github.com/UCL-ARC/graffinity-cdi-llm-api"]
+  },
+  "UCL-ARC/graphcore-pytorch-cifar-conversion-example": {
+    "github": [
+      "https://github.com/UCL-ARC/graphcore-pytorch-cifar-conversion-example"
+    ],
+    "git": [
+      "https://github.com/UCL-ARC/graphcore-pytorch-cifar-conversion-example"
+    ]
+  },
+  "UCL-ARC/householder": {
+    "github": ["https://github.com/UCL-ARC/householder"],
+    "git": ["https://github.com/UCL-ARC/householder"]
+  },
+  "UCL-ARC/HPC-Acceptance-Tests": {
+    "github": ["https://github.com/UCL-ARC/HPC-Acceptance-Tests"],
+    "git": ["https://github.com/UCL-ARC/HPC-Acceptance-Tests"]
+  },
+  "UCL-ARC/hpc-modulefiles": {
+    "github": ["https://github.com/UCL-ARC/hpc-modulefiles"],
+    "git": ["https://github.com/UCL-ARC/hpc-modulefiles"]
+  },
+  "UCL-ARC/hpc-spack": {
+    "github": ["https://github.com/UCL-ARC/hpc-spack"],
+    "git": ["https://github.com/UCL-ARC/hpc-spack"]
+  },
+  "UCL-ARC/hpc-support": {
+    "github": ["https://github.com/UCL-ARC/hpc-support"],
+    "git": ["https://github.com/UCL-ARC/hpc-support"]
+  },
+  "UCL-ARC/hpcc-06-09": {
+    "github": ["https://github.com/UCL-ARC/hpcc-06-09"],
+    "git": ["https://github.com/UCL-ARC/hpcc-06-09"]
+  },
+  "UCL-ARC/in2research_journeys": {
+    "github": ["https://github.com/UCL-ARC/in2research_journeys"],
+    "git": ["https://github.com/UCL-ARC/in2research_journeys"]
+  },
+  "UCL-ARC/indigo_django": {
+    "github": ["https://github.com/UCL-ARC/indigo_django"],
+    "git": ["https://github.com/UCL-ARC/indigo_django"]
+  },
+  "UCL-ARC/indigo-jekyll": {
+    "github": ["https://github.com/UCL-ARC/indigo-jekyll"],
+    "git": ["https://github.com/UCL-ARC/indigo-jekyll"]
+  },
+  "UCL-ARC/julia-hpc-2024": {
+    "github": ["https://github.com/UCL-ARC/julia-hpc-2024"],
+    "git": ["https://github.com/UCL-ARC/julia-hpc-2024"]
+  },
+  "UCL-ARC/julia-re-novice": {
+    "github": ["https://github.com/UCL-ARC/julia-re-novice"],
+    "git": ["https://github.com/UCL-ARC/julia-re-novice"]
+  },
+  "UCL-ARC/julia-workshop": {
+    "github": ["https://github.com/UCL-ARC/julia-workshop"],
+    "git": ["https://github.com/UCL-ARC/julia-workshop"]
+  },
+  "UCL-ARC/kairos-almalinux": {
+    "github": ["https://github.com/UCL-ARC/kairos-almalinux"],
+    "git": ["https://github.com/UCL-ARC/kairos-almalinux"]
+  },
+  "UCL-ARC/langxtract": {
+    "github": ["https://github.com/UCL-ARC/langxtract"],
+    "git": ["https://github.com/UCL-ARC/langxtract"]
+  },
+  "UCL-ARC/mkdocs-dsh-docs": {
+    "github": ["https://github.com/UCL-ARC/mkdocs-dsh-docs"],
+    "git": ["https://github.com/UCL-ARC/mkdocs-dsh-docs"]
+  },
+  "UCL-ARC/mkdocs-rc-docs": {
+    "github": ["https://github.com/UCL-ARC/mkdocs-rc-docs"],
+    "git": ["https://github.com/UCL-ARC/mkdocs-rc-docs"]
+  },
+  "UCL-ARC/museum_of_dreams": {
+    "github": ["https://github.com/UCL-ARC/museum_of_dreams"],
+    "git": ["https://github.com/UCL-ARC/museum_of_dreams"]
+  },
+  "UCL-ARC/Mutein": {
+    "github": ["https://github.com/UCL-ARC/Mutein"],
+    "git": ["https://github.com/UCL-ARC/Mutein"]
+  },
+  "UCL-ARC/MuteinFold": {
+    "github": ["https://github.com/UCL-ARC/MuteinFold"],
+    "git": ["https://github.com/UCL-ARC/MuteinFold"]
+  },
+  "UCL-ARC/myriad-python-analysis-example": {
+    "github": ["https://github.com/UCL-ARC/myriad-python-analysis-example"],
+    "git": ["https://github.com/UCL-ARC/myriad-python-analysis-example"]
+  },
+  "UCL-ARC/narrating-fair": {
+    "github": ["https://github.com/UCL-ARC/narrating-fair"],
+    "git": ["https://github.com/UCL-ARC/narrating-fair"]
+  },
+  "UCL-ARC/ocost": {
+    "github": ["https://github.com/UCL-ARC/ocost"],
+    "git": ["https://github.com/UCL-ARC/ocost"]
+  },
+  "UCL-ARC/ood-jc-script-templates": {
+    "github": ["https://github.com/UCL-ARC/ood-jc-script-templates"],
+    "git": ["https://github.com/UCL-ARC/ood-jc-script-templates"]
+  },
+  "UCL-ARC/ood-jupyter": {
+    "github": ["https://github.com/UCL-ARC/ood-jupyter"],
+    "git": ["https://github.com/UCL-ARC/ood-jupyter"]
+  },
+  "UCL-ARC/ood-pluto": {
+    "github": ["https://github.com/UCL-ARC/ood-pluto"],
+    "git": ["https://github.com/UCL-ARC/ood-pluto"]
+  },
+  "UCL-ARC/ood-rstudio-app": {
+    "github": ["https://github.com/UCL-ARC/ood-rstudio-app"],
+    "git": ["https://github.com/UCL-ARC/ood-rstudio-app"]
+  },
+  "UCL-ARC/ood-sifs": {
+    "github": ["https://github.com/UCL-ARC/ood-sifs"],
+    "git": ["https://github.com/UCL-ARC/ood-sifs"]
+  },
+  "UCL-ARC/ovirt-terraform-vm-disk": {
+    "github": ["https://github.com/UCL-ARC/ovirt-terraform-vm-disk"],
+    "git": ["https://github.com/UCL-ARC/ovirt-terraform-vm-disk"]
+  },
+  "UCL-ARC/ovirt-terraform-vm": {
+    "github": ["https://github.com/UCL-ARC/ovirt-terraform-vm"],
+    "git": ["https://github.com/UCL-ARC/ovirt-terraform-vm"]
+  },
+  "UCL-ARC/pi_examples": {
+    "github": ["https://github.com/UCL-ARC/pi_examples"],
+    "git": ["https://github.com/UCL-ARC/pi_examples"]
+  },
+  "UCL-ARC/puppet-submitty": {
+    "github": ["https://github.com/UCL-ARC/puppet-submitty"],
+    "git": ["https://github.com/UCL-ARC/puppet-submitty"]
+  },
+  "UCL-ARC/python-novice-gdp-penguins": {
+    "github": ["https://github.com/UCL-ARC/python-novice-gdp-penguins"],
+    "git": ["https://github.com/UCL-ARC/python-novice-gdp-penguins"]
+  },
+  "UCL-ARC/python-tooling-presentations": {
+    "github": ["https://github.com/UCL-ARC/python-tooling-presentations"],
+    "git": ["https://github.com/UCL-ARC/python-tooling-presentations"]
+  },
+  "UCL-ARC/python-tooling": {
+    "github": ["https://github.com/UCL-ARC/python-tooling"],
+    "git": ["https://github.com/UCL-ARC/python-tooling"]
+  },
+  "UCL-ARC/qw": {
+    "github": ["https://github.com/UCL-ARC/qw"],
+    "git": ["https://github.com/UCL-ARC/qw"]
+  },
+  "UCL-ARC/rc-ood-pilot": {
+    "github": ["https://github.com/UCL-ARC/rc-ood-pilot"],
+    "git": ["https://github.com/UCL-ARC/rc-ood-pilot"]
+  },
+  "UCL-ARC/rcps-buildscripts": {
+    "github": ["https://github.com/UCL-ARC/rcps-buildscripts"],
+    "git": ["https://github.com/UCL-ARC/rcps-buildscripts"]
+  },
+  "UCL-ARC/rcps-cluster-scripts": {
+    "github": ["https://github.com/UCL-ARC/rcps-cluster-scripts"],
+    "git": ["https://github.com/UCL-ARC/rcps-cluster-scripts"]
+  },
+  "UCL-ARC/rcps-modulefiles": {
+    "github": ["https://github.com/UCL-ARC/rcps-modulefiles"],
+    "git": ["https://github.com/UCL-ARC/rcps-modulefiles"]
+  },
+  "UCL-ARC/research-software-practices": {
+    "github": ["https://github.com/UCL-ARC/research-software-practices"],
+    "git": ["https://github.com/UCL-ARC/research-software-practices"]
+  },
+  "UCL-ARC/rred-reports": {
+    "github": ["https://github.com/UCL-ARC/rred-reports"],
+    "git": ["https://github.com/UCL-ARC/rred-reports"]
+  },
+  "UCL-ARC/rsd-summerschool": {
+    "github": ["https://github.com/UCL-ARC/rsd-summerschool"],
+    "git": ["https://github.com/UCL-ARC/rsd-summerschool"]
+  },
+  "UCL-ARC/seismogen": {
+    "github": ["https://github.com/UCL-ARC/seismogen"],
+    "git": ["https://github.com/UCL-ARC/seismogen"]
+  },
+  "UCL-ARC/shortlister": {
+    "github": ["https://github.com/UCL-ARC/shortlister"],
+    "git": ["https://github.com/UCL-ARC/shortlister"]
+  },
+  "UCL-ARC/social-contagion-of-violence": {
+    "github": ["https://github.com/UCL-ARC/social-contagion-of-violence"],
+    "git": ["https://github.com/UCL-ARC/social-contagion-of-violence"]
+  },
+  "UCL-ARC/Submitty-ARC-Guide": {
+    "github": ["https://github.com/UCL-ARC/Submitty-ARC-Guide"],
+    "git": ["https://github.com/UCL-ARC/Submitty-ARC-Guide"]
+  },
+  "UCL-ARC/swc-jupyter-lite": {
+    "github": ["https://github.com/UCL-ARC/swc-jupyter-lite"],
+    "git": ["https://github.com/UCL-ARC/swc-jupyter-lite"]
+  },
+  "UCL-ARC/swc-shell-split-window": {
+    "github": ["https://github.com/UCL-ARC/swc-shell-split-window"],
+    "git": ["https://github.com/UCL-ARC/swc-shell-split-window"]
+  },
+  "UCL-ARC/synthetic-paper-generator": {
+    "github": ["https://github.com/UCL-ARC/synthetic-paper-generator"],
+    "git": ["https://github.com/UCL-ARC/synthetic-paper-generator"]
+  },
+  "UCL-ARC/teaching-tooling": {
+    "github": ["https://github.com/UCL-ARC/teaching-tooling"],
+    "git": ["https://github.com/UCL-ARC/teaching-tooling"]
+  },
+  "UCL-ARC/terraform-aws-appstream-builder": {
+    "github": ["https://github.com/UCL-ARC/terraform-aws-appstream-builder"],
+    "git": ["https://github.com/UCL-ARC/terraform-aws-appstream-builder"]
+  },
+  "UCL-ARC/terraform-aws-batch-processing": {
+    "github": ["https://github.com/UCL-ARC/terraform-aws-batch-processing"],
+    "git": ["https://github.com/UCL-ARC/terraform-aws-batch-processing"]
+  },
+  "UCL-ARC/terraform-cloudflare-arc-dns": {
+    "github": ["https://github.com/UCL-ARC/terraform-cloudflare-arc-dns"],
+    "git": ["https://github.com/UCL-ARC/terraform-cloudflare-arc-dns"]
+  },
+  "UCL-ARC/terraform-gha-runners-k8s": {
+    "github": ["https://github.com/UCL-ARC/terraform-gha-runners-k8s"],
+    "git": ["https://github.com/UCL-ARC/terraform-gha-runners-k8s"]
+  },
+  "UCL-ARC/terraform-harvester-mkdocs-site": {
+    "github": ["https://github.com/UCL-ARC/terraform-harvester-mkdocs-site"],
+    "git": ["https://github.com/UCL-ARC/terraform-harvester-mkdocs-site"]
+  },
+  "UCL-ARC/terraform-harvester-modules": {
+    "github": ["https://github.com/UCL-ARC/terraform-harvester-modules"],
+    "git": ["https://github.com/UCL-ARC/terraform-harvester-modules"]
+  },
+  "UCL-ARC/terraform-harvester-vm-demo": {
+    "github": ["https://github.com/UCL-ARC/terraform-harvester-vm-demo"],
+    "git": ["https://github.com/UCL-ARC/terraform-harvester-vm-demo"]
+  },
+  "UCL-ARC/terraform-template": {
+    "github": ["https://github.com/UCL-ARC/terraform-template"],
+    "git": ["https://github.com/UCL-ARC/terraform-template"]
+  },
+  "UCL-ARC/transforming-research-communities": {
+    "github": ["https://github.com/UCL-ARC/transforming-research-communities"],
+    "git": ["https://github.com/UCL-ARC/transforming-research-communities"]
+  },
+  "UCL-ARC/ucl-arc.github.io": {
+    "github": ["https://github.com/UCL-ARC/ucl-arc.github.io"],
+    "git": ["https://github.com/UCL-ARC/ucl-arc.github.io"]
+  },
+  "UCL-ARC/UsefulModuleFunctions": {
+    "github": ["https://github.com/UCL-ARC/UsefulModuleFunctions"],
+    "git": ["https://github.com/UCL-ARC/UsefulModuleFunctions"]
+  },
+  "UCL-ARC/yaap-edna": {
+    "github": ["https://github.com/UCL-ARC/yaap-edna"],
+    "git": ["https://github.com/UCL-ARC/yaap-edna"]
+  },
+  "ucl-bug/helmnet": {
+    "github": ["https://github.com/ucl-bug/helmnet"],
+    "git": ["https://github.com/ucl-bug/helmnet"]
+  },
+  "ucl-bug/jaxdf": {
+    "github": ["https://github.com/ucl-bug/jaxdf"],
+    "git": ["https://github.com/ucl-bug/jaxdf"]
+  },
+  "ucl-bug/jwave-data": {
+    "github": ["https://github.com/ucl-bug/jwave-data"],
+    "git": ["https://github.com/ucl-bug/jwave-data"]
+  },
+  "ucl-bug/jwave": {
+    "github": ["https://github.com/ucl-bug/jwave"],
+    "git": ["https://github.com/ucl-bug/jwave"]
+  },
+  "ucl-bug/k-plan-matlab-tools": {
+    "github": ["https://github.com/ucl-bug/k-plan-matlab-tools"],
+    "git": ["https://github.com/ucl-bug/k-plan-matlab-tools"]
+  },
+  "ucl-bug/k-wave": {
+    "github": ["https://github.com/ucl-bug/k-wave"],
+    "git": ["https://github.com/ucl-bug/k-wave"]
+  },
+  "ucl-bug/lbs": {
+    "github": ["https://github.com/ucl-bug/lbs"],
+    "git": ["https://github.com/ucl-bug/lbs"]
+  },
+  "ucl-bug/linear-uncertainty": {
+    "github": ["https://github.com/ucl-bug/linear-uncertainty"],
+    "git": ["https://github.com/ucl-bug/linear-uncertainty"]
+  },
+  "ucl-bug/matlab-dtts": {
+    "github": ["https://github.com/ucl-bug/matlab-dtts"],
+    "git": ["https://github.com/ucl-bug/matlab-dtts"]
+  },
+  "ucl-bug/matlab-helmholtz-solver": {
+    "github": ["https://github.com/ucl-bug/matlab-helmholtz-solver"],
+    "git": ["https://github.com/ucl-bug/matlab-helmholtz-solver"]
+  },
+  "ucl-bug/petra-to-ct": {
+    "github": ["https://github.com/ucl-bug/petra-to-ct"],
+    "git": ["https://github.com/ucl-bug/petra-to-ct"]
+  },
+  "ucl-bug/tpo-control-toolbox": {
+    "github": ["https://github.com/ucl-bug/tpo-control-toolbox"],
+    "git": ["https://github.com/ucl-bug/tpo-control-toolbox"]
+  },
+  "ucl-bug/transcranial-ultrasound-benchmarks": {
+    "github": ["https://github.com/ucl-bug/transcranial-ultrasound-benchmarks"],
+    "git": ["https://github.com/ucl-bug/transcranial-ultrasound-benchmarks"]
+  },
+  "ucl-bug/transcranial-ultrasound-planning": {
+    "github": ["https://github.com/ucl-bug/transcranial-ultrasound-planning"],
+    "git": ["https://github.com/ucl-bug/transcranial-ultrasound-planning"]
+  },
+  "ucl-bug/ust-sart": {
+    "github": ["https://github.com/ucl-bug/ust-sart"],
+    "git": ["https://github.com/ucl-bug/ust-sart"]
+  },
+  "ucl-casa-ce/AFrame_AR_Multimarkers": {
+    "github": ["https://github.com/ucl-casa-ce/AFrame_AR_Multimarkers"],
+    "git": ["https://github.com/ucl-casa-ce/AFrame_AR_Multimarkers"]
+  },
+  "ucl-casa-ce/ArduCam": {
+    "github": ["https://github.com/ucl-casa-ce/ArduCam"],
+    "git": ["https://github.com/ucl-casa-ce/ArduCam"]
+  },
+  "ucl-casa-ce/ARGH": {
+    "github": ["https://github.com/ucl-casa-ce/ARGH"],
+    "git": ["https://github.com/ucl-casa-ce/ARGH"]
+  },
+  "ucl-casa-ce/artes": {
+    "github": ["https://github.com/ucl-casa-ce/artes"],
+    "git": ["https://github.com/ucl-casa-ce/artes"]
+  },
+  "ucl-casa-ce/casa0014": {
+    "github": ["https://github.com/ucl-casa-ce/casa0014"],
+    "git": ["https://github.com/ucl-casa-ce/casa0014"]
+  },
+  "ucl-casa-ce/casa0015-mobile-assessment": {
+    "github": ["https://github.com/ucl-casa-ce/casa0015-mobile-assessment"],
+    "git": ["https://github.com/ucl-casa-ce/casa0015-mobile-assessment"]
+  },
+  "ucl-casa-ce/casa0017-server": {
+    "github": ["https://github.com/ucl-casa-ce/casa0017-server"],
+    "git": ["https://github.com/ucl-casa-ce/casa0017-server"]
+  },
+  "ucl-casa-ce/casa0017-web-assessment": {
+    "github": ["https://github.com/ucl-casa-ce/casa0017-web-assessment"],
+    "git": ["https://github.com/ucl-casa-ce/casa0017-web-assessment"]
+  },
+  "ucl-casa-ce/CASA0017-WebStack-BoilerPlate": {
+    "github": ["https://github.com/ucl-casa-ce/CASA0017-WebStack-BoilerPlate"],
+    "git": ["https://github.com/ucl-casa-ce/CASA0017-WebStack-BoilerPlate"]
+  },
+  "ucl-casa-ce/casa0022": {
+    "github": ["https://github.com/ucl-casa-ce/casa0022"],
+    "git": ["https://github.com/ucl-casa-ce/casa0022"]
+  },
+  "ucl-casa-ce/claat-snippets-atom": {
+    "github": ["https://github.com/ucl-casa-ce/claat-snippets-atom"],
+    "git": ["https://github.com/ucl-casa-ce/claat-snippets-atom"]
+  },
+  "ucl-casa-ce/claat-snippets-sublime": {
+    "github": ["https://github.com/ucl-casa-ce/claat-snippets-sublime"],
+    "git": ["https://github.com/ucl-casa-ce/claat-snippets-sublime"]
+  },
+  "ucl-casa-ce/claat-snippets-vscode": {
+    "github": ["https://github.com/ucl-casa-ce/claat-snippets-vscode"],
+    "git": ["https://github.com/ucl-casa-ce/claat-snippets-vscode"]
+  },
+  "ucl-casa-ce/dabo": {
+    "github": ["https://github.com/ucl-casa-ce/dabo"],
+    "git": ["https://github.com/ucl-casa-ce/dabo"]
+  },
+  "ucl-casa-ce/Galactic-Unicorn-MQTT-Scroller": {
+    "github": ["https://github.com/ucl-casa-ce/Galactic-Unicorn-MQTT-Scroller"],
+    "git": ["https://github.com/ucl-casa-ce/Galactic-Unicorn-MQTT-Scroller"]
+  },
+  "ucl-casa-ce/hercules-web": {
+    "github": ["https://github.com/ucl-casa-ce/hercules-web"],
+    "git": ["https://github.com/ucl-casa-ce/hercules-web"]
+  },
+  "ucl-casa-ce/mobile-device-wall": {
+    "github": ["https://github.com/ucl-casa-ce/mobile-device-wall"],
+    "git": ["https://github.com/ucl-casa-ce/mobile-device-wall"]
+  },
+  "ucl-casa-ce/netzerohealth": {
+    "github": ["https://github.com/ucl-casa-ce/netzerohealth"],
+    "git": ["https://github.com/ucl-casa-ce/netzerohealth"]
+  },
+  "ucl-casa-ce/nispae": {
+    "github": ["https://github.com/ucl-casa-ce/nispae"],
+    "git": ["https://github.com/ucl-casa-ce/nispae"]
+  },
+  "ucl-casa-ce/Open-Gauges": {
+    "github": ["https://github.com/ucl-casa-ce/Open-Gauges"],
+    "git": ["https://github.com/ucl-casa-ce/Open-Gauges"]
+  },
+  "ucl-casa-ce/OpenAI_WeatherImage": {
+    "github": ["https://github.com/ucl-casa-ce/OpenAI_WeatherImage"],
+    "git": ["https://github.com/ucl-casa-ce/OpenAI_WeatherImage"]
+  },
+  "ucl-casa-ce/OpenMV2RaspPi": {
+    "github": ["https://github.com/ucl-casa-ce/OpenMV2RaspPi"],
+    "git": ["https://github.com/ucl-casa-ce/OpenMV2RaspPi"]
+  },
+  "ucl-casa-ce/pi-cloud": {
+    "github": ["https://github.com/ucl-casa-ce/pi-cloud"],
+    "git": ["https://github.com/ucl-casa-ce/pi-cloud"]
+  },
+  "ucl-casa-ce/pi-face-detector": {
+    "github": ["https://github.com/ucl-casa-ce/pi-face-detector"],
+    "git": ["https://github.com/ucl-casa-ce/pi-face-detector"]
+  },
+  "ucl-casa-ce/prlug-water-temp": {
+    "github": ["https://github.com/ucl-casa-ce/prlug-water-temp"],
+    "git": ["https://github.com/ucl-casa-ce/prlug-water-temp"]
+  },
+  "ucl-casa-ce/pytorch-mobile-ios": {
+    "github": ["https://github.com/ucl-casa-ce/pytorch-mobile-ios"],
+    "git": ["https://github.com/ucl-casa-ce/pytorch-mobile-ios"]
+  },
+  "ucl-casa-ce/pytorch-transfer-learning": {
+    "github": ["https://github.com/ucl-casa-ce/pytorch-transfer-learning"],
+    "git": ["https://github.com/ucl-casa-ce/pytorch-transfer-learning"]
+  },
+  "ucl-casa-ce/SCD-41-CO2-monitor": {
+    "github": ["https://github.com/ucl-casa-ce/SCD-41-CO2-monitor"],
+    "git": ["https://github.com/ucl-casa-ce/SCD-41-CO2-monitor"]
+  },
+  "ucl-casa-ce/Stellar-Unicorn-MQTT-Scroller": {
+    "github": ["https://github.com/ucl-casa-ce/Stellar-Unicorn-MQTT-Scroller"],
+    "git": ["https://github.com/ucl-casa-ce/Stellar-Unicorn-MQTT-Scroller"]
+  },
+  "ucl-casa-ce/ttn2mysqlpi": {
+    "github": ["https://github.com/ucl-casa-ce/ttn2mysqlpi"],
+    "git": ["https://github.com/ucl-casa-ce/ttn2mysqlpi"]
+  },
+  "ucl-casa-ce/TTNUnoWorkshop": {
+    "github": ["https://github.com/ucl-casa-ce/TTNUnoWorkshop"],
+    "git": ["https://github.com/ucl-casa-ce/TTNUnoWorkshop"]
+  },
+  "ucl-casa-ce/ucl-seats-qrcode-viewer": {
+    "github": ["https://github.com/ucl-casa-ce/ucl-seats-qrcode-viewer"],
+    "git": ["https://github.com/ucl-casa-ce/ucl-seats-qrcode-viewer"]
+  },
+  "ucl-casa-ce/unity-webgl-mqtt": {
+    "github": ["https://github.com/ucl-casa-ce/unity-webgl-mqtt"],
+    "git": ["https://github.com/ucl-casa-ce/unity-webgl-mqtt"]
+  },
+  "ucl-casa-ce/unravelling": {
+    "github": ["https://github.com/ucl-casa-ce/unravelling"],
+    "git": ["https://github.com/ucl-casa-ce/unravelling"]
+  },
+  "ucl-casa-ce/WindDirGauge": {
+    "github": ["https://github.com/ucl-casa-ce/WindDirGauge"],
+    "git": ["https://github.com/ucl-casa-ce/WindDirGauge"]
+  },
+  "UCL-EO/cylog": {
+    "github": ["https://github.com/UCL-EO/cylog"],
+    "git": ["https://github.com/UCL-EO/cylog"]
+  },
+  "UCL-EO/gdal-install": {
+    "github": ["https://github.com/UCL-EO/gdal-install"],
+    "git": ["https://github.com/UCL-EO/gdal-install"]
+  },
+  "UCL-EO/geog0111": {
+    "github": ["https://github.com/UCL-EO/geog0111"],
+    "git": ["https://github.com/UCL-EO/geog0111"]
+  },
+  "UCL-EO/geog0133-practicals": {
+    "github": ["https://github.com/UCL-EO/geog0133-practicals"],
+    "git": ["https://github.com/UCL-EO/geog0133-practicals"]
+  },
+  "UCL-EO/geog0133": {
+    "github": ["https://github.com/UCL-EO/geog0133"],
+    "git": ["https://github.com/UCL-EO/geog0133"]
+  },
+  "UCL-EO/getModisEE": {
+    "github": ["https://github.com/UCL-EO/getModisEE"],
+    "git": ["https://github.com/UCL-EO/getModisEE"]
+  },
+  "UCL-EO/Ghana_field_images": {
+    "github": ["https://github.com/UCL-EO/Ghana_field_images"],
+    "git": ["https://github.com/UCL-EO/Ghana_field_images"]
+  },
+  "UCL-EO/gurl": {
+    "github": ["https://github.com/UCL-EO/gurl"],
+    "git": ["https://github.com/UCL-EO/gurl"]
+  },
+  "UCL-EO/gurlpath": {
+    "github": ["https://github.com/UCL-EO/gurlpath"],
+    "git": ["https://github.com/UCL-EO/gurlpath"]
+  },
+  "UCL-EO/leaf": {
+    "github": ["https://github.com/UCL-EO/leaf"],
+    "git": ["https://github.com/UCL-EO/leaf"]
+  },
+  "UCL-EO/librat": {
+    "github": ["https://github.com/UCL-EO/librat"],
+    "git": ["https://github.com/UCL-EO/librat"]
+  },
+  "UCL-EO/listfile": {
+    "github": ["https://github.com/UCL-EO/listfile"],
+    "git": ["https://github.com/UCL-EO/listfile"]
+  },
+  "UCL-EO/QA4ECV_ATBD": {
+    "github": ["https://github.com/UCL-EO/QA4ECV_ATBD"],
+    "git": ["https://github.com/UCL-EO/QA4ECV_ATBD"]
+  },
+  "UCL-EO/sampling": {
+    "github": ["https://github.com/UCL-EO/sampling"],
+    "git": ["https://github.com/UCL-EO/sampling"]
+  },
+  "UCL-EO/siac_dev": {
+    "github": ["https://github.com/UCL-EO/siac_dev"],
+    "git": ["https://github.com/UCL-EO/siac_dev"]
+  },
+  "UCL-EO/tudors": {
+    "github": ["https://github.com/UCL-EO/tudors"],
+    "git": ["https://github.com/UCL-EO/tudors"]
+  },
+  "UCL-EO/UCL-EO.github.io": {
+    "github": ["https://github.com/UCL-EO/UCL-EO.github.io"],
+    "git": ["https://github.com/UCL-EO/UCL-EO.github.io"]
+  },
+  "UCL-EO/uclgeog_msc_core": {
+    "github": ["https://github.com/UCL-EO/uclgeog_msc_core"],
+    "git": ["https://github.com/UCL-EO/uclgeog_msc_core"]
+  },
+  "UCL-EO/uclgeog-jupyter-datascience-notebook": {
+    "github": [
+      "https://github.com/UCL-EO/uclgeog-jupyter-datascience-notebook"
+    ],
+    "git": ["https://github.com/UCL-EO/uclgeog-jupyter-datascience-notebook"]
+  },
+  "UCL-EO/uclgeog-test-dockerfile": {
+    "github": ["https://github.com/UCL-EO/uclgeog-test-dockerfile"],
+    "git": ["https://github.com/UCL-EO/uclgeog-test-dockerfile"]
+  },
+  "UCL-EO/uclgeog": {
+    "github": ["https://github.com/UCL-EO/uclgeog"],
+    "git": ["https://github.com/UCL-EO/uclgeog"]
+  },
+  "UCL-EO/Workshop2022": {
+    "github": ["https://github.com/UCL-EO/Workshop2022"],
+    "git": ["https://github.com/UCL-EO/Workshop2022"]
+  },
+  "UCL-MIRSG/.github": {
+    "github": ["https://github.com/UCL-MIRSG/.github"],
+    "git": ["https://github.com/UCL-MIRSG/.github"]
+  },
+  "UCL-MIRSG/ansible-collection-infra": {
+    "github": ["https://github.com/UCL-MIRSG/ansible-collection-infra"],
+    "git": ["https://github.com/UCL-MIRSG/ansible-collection-infra"]
+  },
+  "UCL-MIRSG/azure-mail": {
+    "github": ["https://github.com/UCL-MIRSG/azure-mail"],
+    "git": ["https://github.com/UCL-MIRSG/azure-mail"]
+  },
+  "UCL-MIRSG/docs": {
+    "github": ["https://github.com/UCL-MIRSG/docs"],
+    "git": ["https://github.com/UCL-MIRSG/docs"]
+  },
+  "UCL-MIRSG/drc-containers": {
+    "github": ["https://github.com/UCL-MIRSG/drc-containers"],
+    "git": ["https://github.com/UCL-MIRSG/drc-containers"]
+  },
+  "UCL-MIRSG/genfi2-upload-assistant": {
+    "github": ["https://github.com/UCL-MIRSG/genfi2-upload-assistant"],
+    "git": ["https://github.com/UCL-MIRSG/genfi2-upload-assistant"]
+  },
+  "UCL-MIRSG/mirsg-template": {
+    "github": ["https://github.com/UCL-MIRSG/mirsg-template"],
+    "git": ["https://github.com/UCL-MIRSG/mirsg-template"]
+  },
+  "UCL-MIRSG/template_XNAT_plugin": {
+    "github": ["https://github.com/UCL-MIRSG/template_XNAT_plugin"],
+    "git": ["https://github.com/UCL-MIRSG/template_XNAT_plugin"]
+  },
+  "UCL-MIRSG/xnat-aws": {
+    "github": ["https://github.com/UCL-MIRSG/xnat-aws"],
+    "git": ["https://github.com/UCL-MIRSG/xnat-aws"]
+  },
+  "UCL-MIRSG/xnat-chart": {
+    "github": ["https://github.com/UCL-MIRSG/xnat-chart"],
+    "git": ["https://github.com/UCL-MIRSG/xnat-chart"]
+  },
+  "UCL-VR/ConsensusBasedNetworking": {
+    "github": ["https://github.com/UCL-VR/ConsensusBasedNetworking"],
+    "git": ["https://github.com/UCL-VR/ConsensusBasedNetworking"]
+  },
+  "UCL-VR/PoseSolver": {
+    "github": ["https://github.com/UCL-VR/PoseSolver"],
+    "git": ["https://github.com/UCL-VR/PoseSolver"]
+  },
+  "UCL-VR/readyplayerme-core-ubiq-fork": {
+    "github": ["https://github.com/UCL-VR/readyplayerme-core-ubiq-fork"],
+    "git": ["https://github.com/UCL-VR/readyplayerme-core-ubiq-fork"]
+  },
+  "UCL-VR/StreamSpace": {
+    "github": ["https://github.com/UCL-VR/StreamSpace"],
+    "git": ["https://github.com/UCL-VR/StreamSpace"]
+  },
+  "UCL-VR/ubiq-avatars-readyplayerme": {
+    "github": ["https://github.com/UCL-VR/ubiq-avatars-readyplayerme"],
+    "git": ["https://github.com/UCL-VR/ubiq-avatars-readyplayerme"]
+  },
+  "UCL-VR/ubiq-contraption": {
+    "github": ["https://github.com/UCL-VR/ubiq-contraption"],
+    "git": ["https://github.com/UCL-VR/ubiq-contraption"]
+  },
+  "UCL-VR/ubiq-demo-2scalemaze": {
+    "github": ["https://github.com/UCL-VR/ubiq-demo-2scalemaze"],
+    "git": ["https://github.com/UCL-VR/ubiq-demo-2scalemaze"]
+  },
+  "UCL-VR/ubiq-demo-transballer": {
+    "github": ["https://github.com/UCL-VR/ubiq-demo-transballer"],
+    "git": ["https://github.com/UCL-VR/ubiq-demo-transballer"]
+  },
+  "UCL-VR/ubiq-genie": {
+    "github": ["https://github.com/UCL-VR/ubiq-genie"],
+    "git": ["https://github.com/UCL-VR/ubiq-genie"]
+  },
+  "UCL-VR/ubiq-website": {
+    "github": ["https://github.com/UCL-VR/ubiq-website"],
+    "git": ["https://github.com/UCL-VR/ubiq-website"]
+  },
+  "UCL-VR/ubiq": {
+    "github": ["https://github.com/UCL-VR/ubiq"],
+    "git": ["https://github.com/UCL-VR/ubiq"]
+  },
+  "UCL-VR/unity-webrtc-ubiq-fork": {
+    "github": ["https://github.com/UCL-VR/unity-webrtc-ubiq-fork"],
+    "git": ["https://github.com/UCL-VR/unity-webrtc-ubiq-fork"]
+  },
+  "UCL-VR/UnityDropboxUploader": {
+    "github": ["https://github.com/UCL-VR/UnityDropboxUploader"],
+    "git": ["https://github.com/UCL-VR/UnityDropboxUploader"]
+  },
+  "UCL-VR/vrjam-CleanForSharing": {
+    "github": ["https://github.com/UCL-VR/vrjam-CleanForSharing"],
+    "git": ["https://github.com/UCL-VR/vrjam-CleanForSharing"]
+  },
+  "UCL/2015-02-25": {
+    "github": ["https://github.com/UCL/2015-02-25"],
+    "git": ["https://github.com/UCL/2015-02-25"]
+  },
+  "UCL/2015-06-18-ucl-swcarpentry": {
+    "github": ["https://github.com/UCL/2015-06-18-ucl-swcarpentry"],
+    "git": ["https://github.com/UCL/2015-06-18-ucl-swcarpentry"]
+  },
+  "UCL/2022-03-07-ucl-online-hpcc": {
+    "github": ["https://github.com/UCL/2022-03-07-ucl-online-hpcc"],
+    "git": ["https://github.com/UCL/2022-03-07-ucl-online-hpcc"]
+  },
+  "UCL/2022-09-19-UCL-DaSH": {
+    "github": ["https://github.com/UCL/2022-09-19-UCL-DaSH"],
+    "git": ["https://github.com/UCL/2022-09-19-UCL-DaSH"]
+  },
+  "UCL/2022-09-29-ucl-cdt-online": {
+    "github": ["https://github.com/UCL/2022-09-29-ucl-cdt-online"],
+    "git": ["https://github.com/UCL/2022-09-29-ucl-cdt-online"]
+  },
+  "UCL/2023-03-09-UCL-DasH": {
+    "github": ["https://github.com/UCL/2023-03-09-UCL-DasH"],
+    "git": ["https://github.com/UCL/2023-03-09-UCL-DasH"]
+  },
+  "UCL/2023-06-05_UCL_SoDA_python_workshop": {
+    "github": ["https://github.com/UCL/2023-06-05_UCL_SoDA_python_workshop"],
+    "git": ["https://github.com/UCL/2023-06-05_UCL_SoDA_python_workshop"]
+  },
+  "UCL/accord": {
+    "github": ["https://github.com/UCL/accord"],
+    "git": ["https://github.com/UCL/accord"]
+  },
+  "UCL/ActiveDirectory-CertificateAuthority": {
+    "github": ["https://github.com/UCL/ActiveDirectory-CertificateAuthority"],
+    "git": ["https://github.com/UCL/ActiveDirectory-CertificateAuthority"]
+  },
+  "UCL/ADMUR": {
+    "github": ["https://github.com/UCL/ADMUR"],
+    "git": ["https://github.com/UCL/ADMUR"]
+  },
+  "UCL/ammir": {
+    "github": ["https://github.com/UCL/ammir"],
+    "git": ["https://github.com/UCL/ammir"]
+  },
+  "UCL/AMOCStochasticBoxModel.jl": {
+    "github": ["https://github.com/UCL/AMOCStochasticBoxModel.jl"],
+    "git": ["https://github.com/UCL/AMOCStochasticBoxModel.jl"]
+  },
+  "UCL/amr": {
+    "github": ["https://github.com/UCL/amr"],
+    "git": ["https://github.com/UCL/amr"]
+  },
+  "UCL/ansible-fludetector2": {
+    "github": ["https://github.com/UCL/ansible-fludetector2"],
+    "git": ["https://github.com/UCL/ansible-fludetector2"]
+  },
+  "UCL/artbin": {
+    "github": ["https://github.com/UCL/artbin"],
+    "git": ["https://github.com/UCL/artbin"]
+  },
+  "UCL/artcat": {
+    "github": ["https://github.com/UCL/artcat"],
+    "git": ["https://github.com/UCL/artcat"]
+  },
+  "UCL/AstroBalance": {
+    "github": ["https://github.com/UCL/AstroBalance"],
+    "git": ["https://github.com/UCL/AstroBalance"]
+  },
+  "UCL/awesome-programming-learning-games": {
+    "github": ["https://github.com/UCL/awesome-programming-learning-games"],
+    "git": ["https://github.com/UCL/awesome-programming-learning-games"]
+  },
+  "UCL/ba-ebdp-lightweight-template": {
+    "github": ["https://github.com/UCL/ba-ebdp-lightweight-template"],
+    "git": ["https://github.com/UCL/ba-ebdp-lightweight-template"]
+  },
+  "UCL/ba-ebdp-python-notebooks": {
+    "github": ["https://github.com/UCL/ba-ebdp-python-notebooks"],
+    "git": ["https://github.com/UCL/ba-ebdp-python-notebooks"]
+  },
+  "UCL/ba-ebdp-toolkit": {
+    "github": ["https://github.com/UCL/ba-ebdp-toolkit"],
+    "git": ["https://github.com/UCL/ba-ebdp-toolkit"]
+  },
+  "UCL/Bayesian_opt_Pyro": {
+    "github": ["https://github.com/UCL/Bayesian_opt_Pyro"],
+    "git": ["https://github.com/UCL/Bayesian_opt_Pyro"]
+  },
+  "UCL/BernabeuInterface2014": {
+    "github": ["https://github.com/UCL/BernabeuInterface2014"],
+    "git": ["https://github.com/UCL/BernabeuInterface2014"]
+  },
+  "UCL/birkbeck_example": {
+    "github": ["https://github.com/UCL/birkbeck_example"],
+    "git": ["https://github.com/UCL/birkbeck_example"]
+  },
+  "UCL/Blender_Randomiser": {
+    "github": ["https://github.com/UCL/Blender_Randomiser"],
+    "git": ["https://github.com/UCL/Blender_Randomiser"]
+  },
+  "UCL/bluclobber-code": {
+    "github": ["https://github.com/UCL/bluclobber-code"],
+    "git": ["https://github.com/UCL/bluclobber-code"]
+  },
+  "UCL/BrainAtlas": {
+    "github": ["https://github.com/UCL/BrainAtlas"],
+    "git": ["https://github.com/UCL/BrainAtlas"]
+  },
+  "UCL/BRIT-docker-images": {
+    "github": ["https://github.com/UCL/BRIT-docker-images"],
+    "git": ["https://github.com/UCL/BRIT-docker-images"]
+  },
+  "UCL/BSP-isobenefit-qgis-plugin": {
+    "github": ["https://github.com/UCL/BSP-isobenefit-qgis-plugin"],
+    "git": ["https://github.com/UCL/BSP-isobenefit-qgis-plugin"]
+  },
+  "UCL/BSP-isobenefit-urbanism": {
+    "github": ["https://github.com/UCL/BSP-isobenefit-urbanism"],
+    "git": ["https://github.com/UCL/BSP-isobenefit-urbanism"]
+  },
+  "UCL/calibr": {
+    "github": ["https://github.com/UCL/calibr"],
+    "git": ["https://github.com/UCL/calibr"]
+  },
+  "UCL/carpentry-files": {
+    "github": ["https://github.com/UCL/carpentry-files"],
+    "git": ["https://github.com/UCL/carpentry-files"]
+  },
+  "UCL/CATH-COVID19": {
+    "github": ["https://github.com/UCL/CATH-COVID19"],
+    "git": ["https://github.com/UCL/CATH-COVID19"]
+  },
+  "UCL/cath-funfhmmer": {
+    "github": ["https://github.com/UCL/cath-funfhmmer"],
+    "git": ["https://github.com/UCL/cath-funfhmmer"]
+  },
+  "UCL/cath-funsite-predictor": {
+    "github": ["https://github.com/UCL/cath-funsite-predictor"],
+    "git": ["https://github.com/UCL/cath-funsite-predictor"]
+  },
+  "UCL/cath-gemma": {
+    "github": ["https://github.com/UCL/cath-gemma"],
+    "git": ["https://github.com/UCL/cath-gemma"]
+  },
+  "UCL/cath-hmm-hmm": {
+    "github": ["https://github.com/UCL/cath-hmm-hmm"],
+    "git": ["https://github.com/UCL/cath-hmm-hmm"]
+  },
+  "UCL/cathpy": {
+    "github": ["https://github.com/UCL/cathpy"],
+    "git": ["https://github.com/UCL/cathpy"]
+  },
+  "UCL/causalprog": {
+    "github": ["https://github.com/UCL/causalprog"],
+    "git": ["https://github.com/UCL/causalprog"]
+  },
+  "UCL/celegans-lifespan": {
+    "github": ["https://github.com/UCL/celegans-lifespan"],
+    "git": ["https://github.com/UCL/celegans-lifespan"]
+  },
+  "UCL/CEPMRI-opt": {
+    "github": ["https://github.com/UCL/CEPMRI-opt"],
+    "git": ["https://github.com/UCL/CEPMRI-opt"]
+  },
+  "UCL/cid-X": {
+    "github": ["https://github.com/UCL/cid-X"],
+    "git": ["https://github.com/UCL/cid-X"]
+  },
+  "UCL/CloudProject": {
+    "github": ["https://github.com/UCL/CloudProject"],
+    "git": ["https://github.com/UCL/CloudProject"]
+  },
+  "UCL/COMP0037_23-24": {
+    "github": ["https://github.com/UCL/COMP0037_23-24"],
+    "git": ["https://github.com/UCL/COMP0037_23-24"]
+  },
+  "UCL/COMP0037_24-25": {
+    "github": ["https://github.com/UCL/COMP0037_24-25"],
+    "git": ["https://github.com/UCL/COMP0037_24-25"]
+  },
+  "UCL/COMP0130_22-23_Topic_03": {
+    "github": ["https://github.com/UCL/COMP0130_22-23_Topic_03"],
+    "git": ["https://github.com/UCL/COMP0130_22-23_Topic_03"]
+  },
+  "UCL/COMP0130_23-24": {
+    "github": ["https://github.com/UCL/COMP0130_23-24"],
+    "git": ["https://github.com/UCL/COMP0130_23-24"]
+  },
+  "UCL/comp0130_test": {
+    "github": ["https://github.com/UCL/comp0130_test"],
+    "git": ["https://github.com/UCL/comp0130_test"]
+  },
+  "UCL/COMP0249_24-25": {
+    "github": ["https://github.com/UCL/COMP0249_24-25"],
+    "git": ["https://github.com/UCL/COMP0249_24-25"]
+  },
+  "UCL/COMPASS-AISurgicalSynthesis": {
+    "github": ["https://github.com/UCL/COMPASS-AISurgicalSynthesis"],
+    "git": ["https://github.com/UCL/COMPASS-AISurgicalSynthesis"]
+  },
+  "UCL/covid-api-helidon": {
+    "github": ["https://github.com/UCL/covid-api-helidon"],
+    "git": ["https://github.com/UCL/covid-api-helidon"]
+  },
+  "UCL/cpu-ex": {
+    "github": ["https://github.com/UCL/cpu-ex"],
+    "git": ["https://github.com/UCL/cpu-ex"]
+  },
+  "UCL/DebbyPacker.jl": {
+    "github": ["https://github.com/UCL/DebbyPacker.jl"],
+    "git": ["https://github.com/UCL/DebbyPacker.jl"]
+  },
+  "UCL/devboxes-vagrant": {
+    "github": ["https://github.com/UCL/devboxes-vagrant"],
+    "git": ["https://github.com/UCL/devboxes-vagrant"]
+  },
+  "UCL/dfpi-blazepose": {
+    "github": ["https://github.com/UCL/dfpi-blazepose"],
+    "git": ["https://github.com/UCL/dfpi-blazepose"]
+  },
+  "UCL/dfpi-cromulon-dimension": {
+    "github": ["https://github.com/UCL/dfpi-cromulon-dimension"],
+    "git": ["https://github.com/UCL/dfpi-cromulon-dimension"]
+  },
+  "UCL/dfpi-vr": {
+    "github": ["https://github.com/UCL/dfpi-vr"],
+    "git": ["https://github.com/UCL/dfpi-vr"]
+  },
+  "UCL/DFS-Resolver": {
+    "github": ["https://github.com/UCL/DFS-Resolver"],
+    "git": ["https://github.com/UCL/DFS-Resolver"]
+  },
+  "UCL/dvc-example-pipeline": {
+    "github": ["https://github.com/UCL/dvc-example-pipeline"],
+    "git": ["https://github.com/UCL/dvc-example-pipeline"]
+  },
+  "UCL/dxh": {
+    "github": ["https://github.com/UCL/dxh"],
+    "git": ["https://github.com/UCL/dxh"]
+  },
+  "UCL/ECON-CLUSTER": {
+    "github": ["https://github.com/UCL/ECON-CLUSTER"],
+    "git": ["https://github.com/UCL/ECON-CLUSTER"]
+  },
+  "UCL/econ-myriad": {
+    "github": ["https://github.com/UCL/econ-myriad"],
+    "git": ["https://github.com/UCL/econ-myriad"]
+  },
+  "UCL/EIDP-4": {
+    "github": ["https://github.com/UCL/EIDP-4"],
+    "git": ["https://github.com/UCL/EIDP-4"]
+  },
+  "UCL/EIDP": {
+    "github": ["https://github.com/UCL/EIDP"],
+    "git": ["https://github.com/UCL/EIDP"]
+  },
+  "UCL/elastodynamics-uc": {
+    "github": ["https://github.com/UCL/elastodynamics-uc"],
+    "git": ["https://github.com/UCL/elastodynamics-uc"]
+  },
+  "UCL/emul": {
+    "github": ["https://github.com/UCL/emul"],
+    "git": ["https://github.com/UCL/emul"]
+  },
+  "UCL/FabNESO": {
+    "github": ["https://github.com/UCL/FabNESO"],
+    "git": ["https://github.com/UCL/FabNESO"]
+  },
+  "UCL/fan-slicer": {
+    "github": ["https://github.com/UCL/fan-slicer"],
+    "git": ["https://github.com/UCL/fan-slicer"]
+  },
+  "UCL/FASt-MAL-MOFF": {
+    "github": ["https://github.com/UCL/FASt-MAL-MOFF"],
+    "git": ["https://github.com/UCL/FASt-MAL-MOFF"]
+  },
+  "UCL/fludetector-flask": {
+    "github": ["https://github.com/UCL/fludetector-flask"],
+    "git": ["https://github.com/UCL/fludetector-flask"]
+  },
+  "UCL/fm-data-spec": {
+    "github": ["https://github.com/UCL/fm-data-spec"],
+    "git": ["https://github.com/UCL/fm-data-spec"]
+  },
+  "UCL/frrant": {
+    "github": ["https://github.com/UCL/frrant"],
+    "git": ["https://github.com/UCL/frrant"]
+  },
+  "UCL/GammaModel": {
+    "github": ["https://github.com/UCL/GammaModel"],
+    "git": ["https://github.com/UCL/GammaModel"]
+  },
+  "UCL/GatherTownPosters": {
+    "github": ["https://github.com/UCL/GatherTownPosters"],
+    "git": ["https://github.com/UCL/GatherTownPosters"]
+  },
+  "UCL/GERun": {
+    "github": ["https://github.com/UCL/GERun"],
+    "git": ["https://github.com/UCL/GERun"]
+  },
+  "UCL/github-example": {
+    "github": ["https://github.com/UCL/github-example"],
+    "git": ["https://github.com/UCL/github-example"]
+  },
+  "UCL/GMCMC": {
+    "github": ["https://github.com/UCL/GMCMC"],
+    "git": ["https://github.com/UCL/GMCMC"]
+  },
+  "UCL/GreatCMakeCookOff": {
+    "github": ["https://github.com/UCL/GreatCMakeCookOff"],
+    "git": ["https://github.com/UCL/GreatCMakeCookOff"]
+  },
+  "UCL/GREB-ISM": {
+    "github": ["https://github.com/UCL/GREB-ISM"],
+    "git": ["https://github.com/UCL/GREB-ISM"]
+  },
+  "UCL/Grid-Engine-Prolog-Scripts": {
+    "github": ["https://github.com/UCL/Grid-Engine-Prolog-Scripts"],
+    "git": ["https://github.com/UCL/Grid-Engine-Prolog-Scripts"]
+  },
+  "UCL/GSOC": {
+    "github": ["https://github.com/UCL/GSOC"],
+    "git": ["https://github.com/UCL/GSOC"]
+  },
+  "UCL/hacking-the-climate-code": {
+    "github": ["https://github.com/UCL/hacking-the-climate-code"],
+    "git": ["https://github.com/UCL/hacking-the-climate-code"]
+  },
+  "UCL/HHyeast-server": {
+    "github": ["https://github.com/UCL/HHyeast-server"],
+    "git": ["https://github.com/UCL/HHyeast-server"]
+  },
+  "UCL/hiv-modelling": {
+    "github": ["https://github.com/UCL/hiv-modelling"],
+    "git": ["https://github.com/UCL/hiv-modelling"]
+  },
+  "UCL/hiv-synthesis": {
+    "github": ["https://github.com/UCL/hiv-synthesis"],
+    "git": ["https://github.com/UCL/hiv-synthesis"]
+  },
+  "UCL/hivpy": {
+    "github": ["https://github.com/UCL/hivpy"],
+    "git": ["https://github.com/UCL/hivpy"]
+  },
+  "UCL/Holder": {
+    "github": ["https://github.com/UCL/Holder"],
+    "git": ["https://github.com/UCL/Holder"]
+  },
+  "UCL/humidity": {
+    "github": ["https://github.com/UCL/humidity"],
+    "git": ["https://github.com/UCL/humidity"]
+  },
+  "UCL/i_newspaper_rods": {
+    "github": ["https://github.com/UCL/i_newspaper_rods"],
+    "git": ["https://github.com/UCL/i_newspaper_rods"]
+  },
+  "UCL/interface-uc-unfitted-iso": {
+    "github": ["https://github.com/UCL/interface-uc-unfitted-iso"],
+    "git": ["https://github.com/UCL/interface-uc-unfitted-iso"]
+  },
+  "UCL/ipdmetan": {
+    "github": ["https://github.com/UCL/ipdmetan"],
+    "git": ["https://github.com/UCL/ipdmetan"]
+  },
+  "UCL/isenseflu-api-flask": {
+    "github": ["https://github.com/UCL/isenseflu-api-flask"],
+    "git": ["https://github.com/UCL/isenseflu-api-flask"]
+  },
+  "UCL/isenseflu-app-react": {
+    "github": ["https://github.com/UCL/isenseflu-app-react"],
+    "git": ["https://github.com/UCL/isenseflu-app-react"]
+  },
+  "UCL/isenseflu-chart-embed": {
+    "github": ["https://github.com/UCL/isenseflu-chart-embed"],
+    "git": ["https://github.com/UCL/isenseflu-chart-embed"]
+  },
+  "UCL/isenseflu-openapi": {
+    "github": ["https://github.com/UCL/isenseflu-openapi"],
+    "git": ["https://github.com/UCL/isenseflu-openapi"]
+  },
+  "UCL/isenseflu-publish-javaee": {
+    "github": ["https://github.com/UCL/isenseflu-publish-javaee"],
+    "git": ["https://github.com/UCL/isenseflu-publish-javaee"]
+  },
+  "UCL/isenseflu-static-mui": {
+    "github": ["https://github.com/UCL/isenseflu-static-mui"],
+    "git": ["https://github.com/UCL/isenseflu-static-mui"]
+  },
+  "UCL/jenkins-job-monitor": {
+    "github": ["https://github.com/UCL/jenkins-job-monitor"],
+    "git": ["https://github.com/UCL/jenkins-job-monitor"]
+  },
+  "UCL/jenkjobs": {
+    "github": ["https://github.com/UCL/jenkjobs"],
+    "git": ["https://github.com/UCL/jenkjobs"]
+  },
+  "UCL/Kapta-Lite": {
+    "github": ["https://github.com/UCL/Kapta-Lite"],
+    "git": ["https://github.com/UCL/Kapta-Lite"]
+  },
+  "UCL/kapta-mobile": {
+    "github": ["https://github.com/UCL/kapta-mobile"],
+    "git": ["https://github.com/UCL/kapta-mobile"]
+  },
+  "UCL/kapta-web": {
+    "github": ["https://github.com/UCL/kapta-web"],
+    "git": ["https://github.com/UCL/kapta-web"]
+  },
+  "UCL/kaska": {
+    "github": ["https://github.com/UCL/kaska"],
+    "git": ["https://github.com/UCL/kaska"]
+  },
+  "UCL/LatBo.jl": {
+    "github": ["https://github.com/UCL/LatBo.jl"],
+    "git": ["https://github.com/UCL/LatBo.jl"]
+  },
+  "UCL/latex-math-a11y": {
+    "github": ["https://github.com/UCL/latex-math-a11y"],
+    "git": ["https://github.com/UCL/latex-math-a11y"]
+  },
+  "UCL/lattice-monitoring-framework": {
+    "github": ["https://github.com/UCL/lattice-monitoring-framework"],
+    "git": ["https://github.com/UCL/lattice-monitoring-framework"]
+  },
+  "UCL/legion-logstash-configs": {
+    "github": ["https://github.com/UCL/legion-logstash-configs"],
+    "git": ["https://github.com/UCL/legion-logstash-configs"]
+  },
+  "UCL/linearized-NSE-data-assimilation": {
+    "github": ["https://github.com/UCL/linearized-NSE-data-assimilation"],
+    "git": ["https://github.com/UCL/linearized-NSE-data-assimilation"]
+  },
+  "UCL/linux": {
+    "github": ["https://github.com/UCL/linux"],
+    "git": ["https://github.com/UCL/linux"]
+  },
+  "UCL/logging_modulecmd": {
+    "github": ["https://github.com/UCL/logging_modulecmd"],
+    "git": ["https://github.com/UCL/logging_modulecmd"]
+  },
+  "UCL/MAL-Virtual-Museum": {
+    "github": ["https://github.com/UCL/MAL-Virtual-Museum"],
+    "git": ["https://github.com/UCL/MAL-Virtual-Museum"]
+  },
+  "UCL/matlab-guides": {
+    "github": ["https://github.com/UCL/matlab-guides"],
+    "git": ["https://github.com/UCL/matlab-guides"]
+  },
+  "UCL/maven-archetypes": {
+    "github": ["https://github.com/UCL/maven-archetypes"],
+    "git": ["https://github.com/UCL/maven-archetypes"]
+  },
+  "UCL/medim": {
+    "github": ["https://github.com/UCL/medim"],
+    "git": ["https://github.com/UCL/medim"]
+  },
+  "UCL/membranedivergence": {
+    "github": ["https://github.com/UCL/membranedivergence"],
+    "git": ["https://github.com/UCL/membranedivergence"]
+  },
+  "UCL/Mesher": {
+    "github": ["https://github.com/UCL/Mesher"],
+    "git": ["https://github.com/UCL/Mesher"]
+  },
+  "UCL/metafloat": {
+    "github": ["https://github.com/UCL/metafloat"],
+    "git": ["https://github.com/UCL/metafloat"]
+  },
+  "UCL/metals_extraction": {
+    "github": ["https://github.com/UCL/metals_extraction"],
+    "git": ["https://github.com/UCL/metals_extraction"]
+  },
+  "UCL/metamiss": {
+    "github": ["https://github.com/UCL/metamiss"],
+    "git": ["https://github.com/UCL/metamiss"]
+  },
+  "UCL/metan": {
+    "github": ["https://github.com/UCL/metan"],
+    "git": ["https://github.com/UCL/metan"]
+  },
+  "UCL/Methane_oxidation": {
+    "github": ["https://github.com/UCL/Methane_oxidation"],
+    "git": ["https://github.com/UCL/Methane_oxidation"]
+  },
+  "UCL/MethodologySoftware-": {
+    "github": ["https://github.com/UCL/MethodologySoftware-"],
+    "git": ["https://github.com/UCL/MethodologySoftware-"]
+  },
+  "UCL/moodle2portico": {
+    "github": ["https://github.com/UCL/moodle2portico"],
+    "git": ["https://github.com/UCL/moodle2portico"]
+  },
+  "UCL/MoSpec": {
+    "github": ["https://github.com/UCL/MoSpec"],
+    "git": ["https://github.com/UCL/MoSpec"]
+  },
+  "UCL/motionModelFromXCATDVFs": {
+    "github": ["https://github.com/UCL/motionModelFromXCATDVFs"],
+    "git": ["https://github.com/UCL/motionModelFromXCATDVFs"]
+  },
+  "UCL/mphy0021-2019-data-clustering-sukrire": {
+    "github": ["https://github.com/UCL/mphy0021-2019-data-clustering-sukrire"],
+    "git": ["https://github.com/UCL/mphy0021-2019-data-clustering-sukrire"]
+  },
+  "UCL/mphy0021-2019-data-clustering-yue1101": {
+    "github": ["https://github.com/UCL/mphy0021-2019-data-clustering-yue1101"],
+    "git": ["https://github.com/UCL/mphy0021-2019-data-clustering-yue1101"]
+  },
+  "UCL/mphy0021-2019-travel-planner-sukrire": {
+    "github": ["https://github.com/UCL/mphy0021-2019-travel-planner-sukrire"],
+    "git": ["https://github.com/UCL/mphy0021-2019-travel-planner-sukrire"]
+  },
+  "UCL/mphy0021-2019-travel-planner-SWang999": {
+    "github": ["https://github.com/UCL/mphy0021-2019-travel-planner-SWang999"],
+    "git": ["https://github.com/UCL/mphy0021-2019-travel-planner-SWang999"]
+  },
+  "UCL/mphy0021-2019-travel-planner-yue1101": {
+    "github": ["https://github.com/UCL/mphy0021-2019-travel-planner-yue1101"],
+    "git": ["https://github.com/UCL/mphy0021-2019-travel-planner-yue1101"]
+  },
+  "UCL/mphy0021-2019-travel-planner-zululwarrior": {
+    "github": [
+      "https://github.com/UCL/mphy0021-2019-travel-planner-zululwarrior"
+    ],
+    "git": ["https://github.com/UCL/mphy0021-2019-travel-planner-zululwarrior"]
+  },
+  "UCL/MPHY0026": {
+    "github": ["https://github.com/UCL/MPHY0026"],
+    "git": ["https://github.com/UCL/MPHY0026"]
+  },
+  "UCL/Multi-objective-Bayesian-Optimization": {
+    "github": ["https://github.com/UCL/Multi-objective-Bayesian-Optimization"],
+    "git": ["https://github.com/UCL/Multi-objective-Bayesian-Optimization"]
+  },
+  "UCL/mvmeta": {
+    "github": ["https://github.com/UCL/mvmeta"],
+    "git": ["https://github.com/UCL/mvmeta"]
+  },
+  "UCL/myriad-stardist-pipeline": {
+    "github": ["https://github.com/UCL/myriad-stardist-pipeline"],
+    "git": ["https://github.com/UCL/myriad-stardist-pipeline"]
+  },
+  "UCL/NeonatalSleepWake": {
+    "github": ["https://github.com/UCL/NeonatalSleepWake"],
+    "git": ["https://github.com/UCL/NeonatalSleepWake"]
+  },
+  "UCL/neso-calibration": {
+    "github": ["https://github.com/UCL/neso-calibration"],
+    "git": ["https://github.com/UCL/neso-calibration"]
+  },
+  "UCL/network": {
+    "github": ["https://github.com/UCL/network"],
+    "git": ["https://github.com/UCL/network"]
+  },
+  "UCL/NextBrain-Case-1": {
+    "github": ["https://github.com/UCL/NextBrain-Case-1"],
+    "git": ["https://github.com/UCL/NextBrain-Case-1"]
+  },
+  "UCL/NextBrain-Case-2": {
+    "github": ["https://github.com/UCL/NextBrain-Case-2"],
+    "git": ["https://github.com/UCL/NextBrain-Case-2"]
+  },
+  "UCL/NextBrain-Case-3": {
+    "github": ["https://github.com/UCL/NextBrain-Case-3"],
+    "git": ["https://github.com/UCL/NextBrain-Case-3"]
+  },
+  "UCL/NextBrain-Case-4": {
+    "github": ["https://github.com/UCL/NextBrain-Case-4"],
+    "git": ["https://github.com/UCL/NextBrain-Case-4"]
+  },
+  "UCL/NextBrain-Case-5": {
+    "github": ["https://github.com/UCL/NextBrain-Case-5"],
+    "git": ["https://github.com/UCL/NextBrain-Case-5"]
+  },
+  "UCL/NextBrain": {
+    "github": ["https://github.com/UCL/NextBrain"],
+    "git": ["https://github.com/UCL/NextBrain"]
+  },
+  "UCL/Open_Docking_Lab_Handbook": {
+    "github": ["https://github.com/UCL/Open_Docking_Lab_Handbook"],
+    "git": ["https://github.com/UCL/Open_Docking_Lab_Handbook"]
+  },
+  "UCL/open-source": {
+    "github": ["https://github.com/UCL/open-source"],
+    "git": ["https://github.com/UCL/open-source"]
+  },
+  "UCL/openqcd-oneapi": {
+    "github": ["https://github.com/UCL/openqcd-oneapi"],
+    "git": ["https://github.com/UCL/openqcd-oneapi"]
+  },
+  "UCL/opsview-gridengine-integration": {
+    "github": ["https://github.com/UCL/opsview-gridengine-integration"],
+    "git": ["https://github.com/UCL/opsview-gridengine-integration"]
+  },
+  "UCL/p-medicine-authcli": {
+    "github": ["https://github.com/UCL/p-medicine-authcli"],
+    "git": ["https://github.com/UCL/p-medicine-authcli"]
+  },
+  "UCL/packer-vm-templates": {
+    "github": ["https://github.com/UCL/packer-vm-templates"],
+    "git": ["https://github.com/UCL/packer-vm-templates"]
+  },
+  "UCL/Pain.Impact.Measures": {
+    "github": ["https://github.com/UCL/Pain.Impact.Measures"],
+    "git": ["https://github.com/UCL/Pain.Impact.Measures"]
+  },
+  "UCL/Peano": {
+    "github": ["https://github.com/UCL/Peano"],
+    "git": ["https://github.com/UCL/Peano"]
+  },
+  "UCL/pet-rd-tools": {
+    "github": ["https://github.com/UCL/pet-rd-tools"],
+    "git": ["https://github.com/UCL/pet-rd-tools"]
+  },
+  "UCL/petmr-RESOLUTE": {
+    "github": ["https://github.com/UCL/petmr-RESOLUTE"],
+    "git": ["https://github.com/UCL/petmr-RESOLUTE"]
+  },
+  "UCL/PETPVC": {
+    "github": ["https://github.com/UCL/PETPVC"],
+    "git": ["https://github.com/UCL/PETPVC"]
+  },
+  "UCL/PHAS0100LSAAssignment1": {
+    "github": ["https://github.com/UCL/PHAS0100LSAAssignment1"],
+    "git": ["https://github.com/UCL/PHAS0100LSAAssignment1"]
+  },
+  "UCL/PHAS0100LSAAssignment2": {
+    "github": ["https://github.com/UCL/PHAS0100LSAAssignment2"],
+    "git": ["https://github.com/UCL/PHAS0100LSAAssignment2"]
+  },
+  "UCL/pllf": {
+    "github": ["https://github.com/UCL/pllf"],
+    "git": ["https://github.com/UCL/pllf"]
+  },
+  "UCL/PopChat-BE": {
+    "github": ["https://github.com/UCL/PopChat-BE"],
+    "git": ["https://github.com/UCL/PopChat-BE"]
+  },
+  "UCL/PopChat-FE": {
+    "github": ["https://github.com/UCL/PopChat-FE"],
+    "git": ["https://github.com/UCL/PopChat-FE"]
+  },
+  "UCL/Powershell-nLog": {
+    "github": ["https://github.com/UCL/Powershell-nLog"],
+    "git": ["https://github.com/UCL/Powershell-nLog"]
+  },
+  "UCL/PP-SVGPFA": {
+    "github": ["https://github.com/UCL/PP-SVGPFA"],
+    "git": ["https://github.com/UCL/PP-SVGPFA"]
+  },
+  "UCL/provis": {
+    "github": ["https://github.com/UCL/provis"],
+    "git": ["https://github.com/UCL/provis"]
+  },
+  "UCL/PyBioPharma": {
+    "github": ["https://github.com/UCL/PyBioPharma"],
+    "git": ["https://github.com/UCL/PyBioPharma"]
+  },
+  "UCL/pyCascadia": {
+    "github": ["https://github.com/UCL/pyCascadia"],
+    "git": ["https://github.com/UCL/pyCascadia"]
+  },
+  "UCL/python-hiv-examples": {
+    "github": ["https://github.com/UCL/python-hiv-examples"],
+    "git": ["https://github.com/UCL/python-hiv-examples"]
+  },
+  "UCL/qmr2024": {
+    "github": ["https://github.com/UCL/qmr2024"],
+    "git": ["https://github.com/UCL/qmr2024"]
+  },
+  "UCL/RAP": {
+    "github": ["https://github.com/UCL/RAP"],
+    "git": ["https://github.com/UCL/RAP"]
+  },
+  "UCL/RC-ApplicationForms": {
+    "github": ["https://github.com/UCL/RC-ApplicationForms"],
+    "git": ["https://github.com/UCL/RC-ApplicationForms"]
+  },
+  "UCL/rc-cpp-classwork-2020-21": {
+    "github": ["https://github.com/UCL/rc-cpp-classwork-2020-21"],
+    "git": ["https://github.com/UCL/rc-cpp-classwork-2020-21"]
+  },
+  "UCL/rc-cpp-vscode-dev-container": {
+    "github": ["https://github.com/UCL/rc-cpp-vscode-dev-container"],
+    "git": ["https://github.com/UCL/rc-cpp-vscode-dev-container"]
+  },
+  "UCL/rctmiss": {
+    "github": ["https://github.com/UCL/rctmiss"],
+    "git": ["https://github.com/UCL/rctmiss"]
+  },
+  "UCL/RefbasedMI": {
+    "github": ["https://github.com/UCL/RefbasedMI"],
+    "git": ["https://github.com/UCL/RefbasedMI"]
+  },
+  "UCL/research-computing-with-cpp": {
+    "github": ["https://github.com/UCL/research-computing-with-cpp"],
+    "git": ["https://github.com/UCL/research-computing-with-cpp"]
+  },
+  "UCL/reusable-workflows": {
+    "github": ["https://github.com/UCL/reusable-workflows"],
+    "git": ["https://github.com/UCL/reusable-workflows"]
+  },
+  "UCL/rmcmc": {
+    "github": ["https://github.com/UCL/rmcmc"],
+    "git": ["https://github.com/UCL/rmcmc"]
+  },
+  "UCL/rsd-cppcourse-example": {
+    "github": ["https://github.com/UCL/rsd-cppcourse-example"],
+    "git": ["https://github.com/UCL/rsd-cppcourse-example"]
+  },
+  "UCL/rsd-cppcourse": {
+    "github": ["https://github.com/UCL/rsd-cppcourse"],
+    "git": ["https://github.com/UCL/rsd-cppcourse"]
+  },
+  "UCL/rsd-engineeringcourse-examples": {
+    "github": ["https://github.com/UCL/rsd-engineeringcourse-examples"],
+    "git": ["https://github.com/UCL/rsd-engineeringcourse-examples"]
+  },
+  "UCL/rsd-engineeringcourse": {
+    "github": ["https://github.com/UCL/rsd-engineeringcourse"],
+    "git": ["https://github.com/UCL/rsd-engineeringcourse"]
+  },
+  "UCL/RudeOil.jl": {
+    "github": ["https://github.com/UCL/RudeOil.jl"],
+    "git": ["https://github.com/UCL/RudeOil.jl"]
+  },
+  "UCL/samplesize-CRTs-baseline": {
+    "github": ["https://github.com/UCL/samplesize-CRTs-baseline"],
+    "git": ["https://github.com/UCL/samplesize-CRTs-baseline"]
+  },
+  "UCL/SATS": {
+    "github": ["https://github.com/UCL/SATS"],
+    "git": ["https://github.com/UCL/SATS"]
+  },
+  "UCL/scikit-surgerychallenge": {
+    "github": ["https://github.com/UCL/scikit-surgerychallenge"],
+    "git": ["https://github.com/UCL/scikit-surgerychallenge"]
+  },
+  "UCL/scikit-surgerydocker": {
+    "github": ["https://github.com/UCL/scikit-surgerydocker"],
+    "git": ["https://github.com/UCL/scikit-surgerydocker"]
+  },
+  "UCL/scikit-surgerygoicp": {
+    "github": ["https://github.com/UCL/scikit-surgerygoicp"],
+    "git": ["https://github.com/UCL/scikit-surgerygoicp"]
+  },
+  "UCL/scikit-surgerypclcpp": {
+    "github": ["https://github.com/UCL/scikit-surgerypclcpp"],
+    "git": ["https://github.com/UCL/scikit-surgerypclcpp"]
+  },
+  "UCL/scikit-surgerysurfacematch": {
+    "github": ["https://github.com/UCL/scikit-surgerysurfacematch"],
+    "git": ["https://github.com/UCL/scikit-surgerysurfacematch"]
+  },
+  "UCL/SexesProceedings": {
+    "github": ["https://github.com/UCL/SexesProceedings"],
+    "git": ["https://github.com/UCL/SexesProceedings"]
+  },
+  "UCL/sign-changing-repro": {
+    "github": ["https://github.com/UCL/sign-changing-repro"],
+    "git": ["https://github.com/UCL/sign-changing-repro"]
+  },
+  "UCL/siman": {
+    "github": ["https://github.com/UCL/siman"],
+    "git": ["https://github.com/UCL/siman"]
+  },
+  "UCL/simansuite": {
+    "github": ["https://github.com/UCL/simansuite"],
+    "git": ["https://github.com/UCL/simansuite"]
+  },
+  "UCL/simcheck": {
+    "github": ["https://github.com/UCL/simcheck"],
+    "git": ["https://github.com/UCL/simcheck"]
+  },
+  "UCL/simstock_qgis": {
+    "github": ["https://github.com/UCL/simstock_qgis"],
+    "git": ["https://github.com/UCL/simstock_qgis"]
+  },
+  "UCL/simstock": {
+    "github": ["https://github.com/UCL/simstock"],
+    "git": ["https://github.com/UCL/simstock"]
+  },
+  "UCL/simsum": {
+    "github": ["https://github.com/UCL/simsum"],
+    "git": ["https://github.com/UCL/simsum"]
+  },
+  "UCL/SkullBaseNavigation": {
+    "github": ["https://github.com/UCL/SkullBaseNavigation"],
+    "git": ["https://github.com/UCL/SkullBaseNavigation"]
+  },
+  "UCL/SLMS-Microsoft-Deployment-Toolkit": {
+    "github": ["https://github.com/UCL/SLMS-Microsoft-Deployment-Toolkit"],
+    "git": ["https://github.com/UCL/SLMS-Microsoft-Deployment-Toolkit"]
+  },
+  "UCL/slmsit-puppet-demo": {
+    "github": ["https://github.com/UCL/slmsit-puppet-demo"],
+    "git": ["https://github.com/UCL/slmsit-puppet-demo"]
+  },
+  "UCL/SmoothLifeExample": {
+    "github": ["https://github.com/UCL/SmoothLifeExample"],
+    "git": ["https://github.com/UCL/SmoothLifeExample"]
+  },
+  "UCL/SODA": {
+    "github": ["https://github.com/UCL/SODA"],
+    "git": ["https://github.com/UCL/SODA"]
+  },
+  "UCL/STIR-exercises": {
+    "github": ["https://github.com/UCL/STIR-exercises"],
+    "git": ["https://github.com/UCL/STIR-exercises"]
+  },
+  "UCL/STIR-GATE-Connection": {
+    "github": ["https://github.com/UCL/STIR-GATE-Connection"],
+    "git": ["https://github.com/UCL/STIR-GATE-Connection"]
+  },
+  "UCL/STIR-website": {
+    "github": ["https://github.com/UCL/STIR-website"],
+    "git": ["https://github.com/UCL/STIR-website"]
+  },
+  "UCL/STIR": {
+    "github": ["https://github.com/UCL/STIR"],
+    "git": ["https://github.com/UCL/STIR"]
+  },
+  "UCL/stokes-nc-ill-posed": {
+    "github": ["https://github.com/UCL/stokes-nc-ill-posed"],
+    "git": ["https://github.com/UCL/stokes-nc-ill-posed"]
+  },
+  "UCL/strbee": {
+    "github": ["https://github.com/UCL/strbee"],
+    "git": ["https://github.com/UCL/strbee"]
+  },
+  "UCL/streamlit-calendar-heatmap": {
+    "github": ["https://github.com/UCL/streamlit-calendar-heatmap"],
+    "git": ["https://github.com/UCL/streamlit-calendar-heatmap"]
+  },
+  "UCL/subimagemoco": {
+    "github": ["https://github.com/UCL/subimagemoco"],
+    "git": ["https://github.com/UCL/subimagemoco"]
+  },
+  "UCL/Supergrassi.jl": {
+    "github": ["https://github.com/UCL/Supergrassi.jl"],
+    "git": ["https://github.com/UCL/Supergrassi.jl"]
+  },
+  "UCL/SuPReMo": {
+    "github": ["https://github.com/UCL/SuPReMo"],
+    "git": ["https://github.com/UCL/SuPReMo"]
+  },
+  "UCL/SVAGP": {
+    "github": ["https://github.com/UCL/SVAGP"],
+    "git": ["https://github.com/UCL/SVAGP"]
+  },
+  "UCL/Synthetic_Liver_IPCAI_2022": {
+    "github": ["https://github.com/UCL/Synthetic_Liver_IPCAI_2022"],
+    "git": ["https://github.com/UCL/Synthetic_Liver_IPCAI_2022"]
+  },
+  "UCL/takeout-api-javaee": {
+    "github": ["https://github.com/UCL/takeout-api-javaee"],
+    "git": ["https://github.com/UCL/takeout-api-javaee"]
+  },
+  "UCL/takeout-app-ios": {
+    "github": ["https://github.com/UCL/takeout-app-ios"],
+    "git": ["https://github.com/UCL/takeout-app-ios"]
+  },
+  "UCL/takeout-app-macos": {
+    "github": ["https://github.com/UCL/takeout-app-macos"],
+    "git": ["https://github.com/UCL/takeout-app-macos"]
+  },
+  "UCL/takeout-app-react": {
+    "github": ["https://github.com/UCL/takeout-app-react"],
+    "git": ["https://github.com/UCL/takeout-app-react"]
+  },
+  "UCL/TDMS": {
+    "github": ["https://github.com/UCL/TDMS"],
+    "git": ["https://github.com/UCL/TDMS"]
+  },
+  "UCL/terraform-azure-sirf": {
+    "github": ["https://github.com/UCL/terraform-azure-sirf"],
+    "git": ["https://github.com/UCL/terraform-azure-sirf"]
+  },
+  "UCL/terraform-azure-stir": {
+    "github": ["https://github.com/UCL/terraform-azure-stir"],
+    "git": ["https://github.com/UCL/terraform-azure-stir"]
+  },
+  "UCL/testhggit": {
+    "github": ["https://github.com/UCL/testhggit"],
+    "git": ["https://github.com/UCL/testhggit"]
+  },
+  "UCL/TLOmodel-profiling": {
+    "github": ["https://github.com/UCL/TLOmodel-profiling"],
+    "git": ["https://github.com/UCL/TLOmodel-profiling"]
+  },
+  "UCL/TLOmodel": {
+    "github": ["https://github.com/UCL/TLOmodel"],
+    "git": ["https://github.com/UCL/TLOmodel"]
+  },
+  "UCL/TubularML": {
+    "github": ["https://github.com/UCL/TubularML"],
+    "git": ["https://github.com/UCL/TubularML"]
+  },
+  "UCL/tus-rec-challenge_code": {
+    "github": ["https://github.com/UCL/tus-rec-challenge_code"],
+    "git": ["https://github.com/UCL/tus-rec-challenge_code"]
+  },
+  "UCL/tus-rec-challenge": {
+    "github": ["https://github.com/UCL/tus-rec-challenge"],
+    "git": ["https://github.com/UCL/tus-rec-challenge"]
+  },
+  "UCL/twitter-compliance": {
+    "github": ["https://github.com/UCL/twitter-compliance"],
+    "git": ["https://github.com/UCL/twitter-compliance"]
+  },
+  "UCL/twitter-search-geo": {
+    "github": ["https://github.com/UCL/twitter-search-geo"],
+    "git": ["https://github.com/UCL/twitter-search-geo"]
+  },
+  "UCL/twitter-user-fetch": {
+    "github": ["https://github.com/UCL/twitter-user-fetch"],
+    "git": ["https://github.com/UCL/twitter-user-fetch"]
+  },
+  "UCL/ucl_software_carpentry": {
+    "github": ["https://github.com/UCL/ucl_software_carpentry"],
+    "git": ["https://github.com/UCL/ucl_software_carpentry"]
+  },
+  "UCL/ucl-beamer": {
+    "github": ["https://github.com/UCL/ucl-beamer"],
+    "git": ["https://github.com/UCL/ucl-beamer"]
+  },
+  "UCL/ucl-latex-thesis-templates": {
+    "github": ["https://github.com/UCL/ucl-latex-thesis-templates"],
+    "git": ["https://github.com/UCL/ucl-latex-thesis-templates"]
+  },
+  "UCL/ucl-letter": {
+    "github": ["https://github.com/UCL/ucl-letter"],
+    "git": ["https://github.com/UCL/ucl-letter"]
+  },
+  "UCL/ucl-rc-mwskin": {
+    "github": ["https://github.com/UCL/ucl-rc-mwskin"],
+    "git": ["https://github.com/UCL/ucl-rc-mwskin"]
+  },
+  "UCL/ucl.github.io": {
+    "github": ["https://github.com/UCL/ucl.github.io"],
+    "git": ["https://github.com/UCL/ucl.github.io"]
+  },
+  "UCL/uclad-linux-client-deployment": {
+    "github": ["https://github.com/UCL/uclad-linux-client-deployment"],
+    "git": ["https://github.com/UCL/uclad-linux-client-deployment"]
+  },
+  "UCL/UKBiobank_PheWAS": {
+    "github": ["https://github.com/UCL/UKBiobank_PheWAS"],
+    "git": ["https://github.com/UCL/UKBiobank_PheWAS"]
+  },
+  "UCL/UKCORDEX-plot-explorer-data": {
+    "github": ["https://github.com/UCL/UKCORDEX-plot-explorer-data"],
+    "git": ["https://github.com/UCL/UKCORDEX-plot-explorer-data"]
+  },
+  "UCL/UKCORDEX-plot-explorer-dev": {
+    "github": ["https://github.com/UCL/UKCORDEX-plot-explorer-dev"],
+    "git": ["https://github.com/UCL/UKCORDEX-plot-explorer-dev"]
+  },
+  "UCL/UKCORDEX-plot-explorer": {
+    "github": ["https://github.com/UCL/UKCORDEX-plot-explorer"],
+    "git": ["https://github.com/UCL/UKCORDEX-plot-explorer"]
+  },
+  "UCL/UKPID-level3-app": {
+    "github": ["https://github.com/UCL/UKPID-level3-app"],
+    "git": ["https://github.com/UCL/UKPID-level3-app"]
+  },
+  "UCL/WASP_control_interface": {
+    "github": ["https://github.com/UCL/WASP_control_interface"],
+    "git": ["https://github.com/UCL/WASP_control_interface"]
+  },
+  "UCL/WEISS_Calibration_Study": {
+    "github": ["https://github.com/UCL/WEISS_Calibration_Study"],
+    "git": ["https://github.com/UCL/WEISS_Calibration_Study"]
+  },
+  "UCL/wsclient-cloudstore-doc": {
+    "github": ["https://github.com/UCL/wsclient-cloudstore-doc"],
+    "git": ["https://github.com/UCL/wsclient-cloudstore-doc"]
+  },
+  "UCL/wsclient-cloudstore-poc": {
+    "github": ["https://github.com/UCL/wsclient-cloudstore-poc"],
+    "git": ["https://github.com/UCL/wsclient-cloudstore-poc"]
+  },
+  "UCL/wsclient-openshift-poc": {
+    "github": ["https://github.com/UCL/wsclient-openshift-poc"],
+    "git": ["https://github.com/UCL/wsclient-openshift-poc"]
+  },
+  "UCL/WSI": {
+    "github": ["https://github.com/UCL/WSI"],
+    "git": ["https://github.com/UCL/WSI"]
+  },
+  "uclapi/branding": {
+    "github": ["https://github.com/uclapi/branding"],
+    "git": ["https://github.com/uclapi/branding"]
+  },
+  "uclapi/django-uclapi-oauth": {
+    "github": ["https://github.com/uclapi/django-uclapi-oauth"],
+    "git": ["https://github.com/uclapi/django-uclapi-oauth"]
+  },
+  "uclapi/docker": {
+    "github": ["https://github.com/uclapi/docker"],
+    "git": ["https://github.com/uclapi/docker"]
+  },
+  "uclapi/enghub": {
+    "github": ["https://github.com/uclapi/enghub"],
+    "git": ["https://github.com/uclapi/enghub"]
+  },
+  "uclapi/External_Test_Suite": {
+    "github": ["https://github.com/uclapi/External_Test_Suite"],
+    "git": ["https://github.com/uclapi/External_Test_Suite"]
+  },
+  "uclapi/fakeshibboleth": {
+    "github": ["https://github.com/uclapi/fakeshibboleth"],
+    "git": ["https://github.com/uclapi/fakeshibboleth"]
+  },
+  "uclapi/hackathon-placeholder": {
+    "github": ["https://github.com/uclapi/hackathon-placeholder"],
+    "git": ["https://github.com/uclapi/hackathon-placeholder"]
+  },
+  "uclapi/hackathon": {
+    "github": ["https://github.com/uclapi/hackathon"],
+    "git": ["https://github.com/uclapi/hackathon"]
+  },
+  "uclapi/heatmap": {
+    "github": ["https://github.com/uclapi/heatmap"],
+    "git": ["https://github.com/uclapi/heatmap"]
+  },
+  "uclapi/ideas": {
+    "github": ["https://github.com/uclapi/ideas"],
+    "git": ["https://github.com/uclapi/ideas"]
+  },
+  "uclapi/nginx-build": {
+    "github": ["https://github.com/uclapi/nginx-build"],
+    "git": ["https://github.com/uclapi/nginx-build"]
+  },
+  "uclapi/rbcalendar": {
+    "github": ["https://github.com/uclapi/rbcalendar"],
+    "git": ["https://github.com/uclapi/rbcalendar"]
+  },
+  "uclapi/room-buddy": {
+    "github": ["https://github.com/uclapi/room-buddy"],
+    "git": ["https://github.com/uclapi/room-buddy"]
+  },
+  "uclapi/society-visualisation": {
+    "github": ["https://github.com/uclapi/society-visualisation"],
+    "git": ["https://github.com/uclapi/society-visualisation"]
+  },
+  "uclapi/ucl-assistant-app-flutter": {
+    "github": ["https://github.com/uclapi/ucl-assistant-app-flutter"],
+    "git": ["https://github.com/uclapi/ucl-assistant-app-flutter"]
+  },
+  "uclapi/uclapi-frontend": {
+    "github": ["https://github.com/uclapi/uclapi-frontend"],
+    "git": ["https://github.com/uclapi/uclapi-frontend"]
+  },
+  "uclapi/uclapi-js-sdk": {
+    "github": ["https://github.com/uclapi/uclapi-js-sdk"],
+    "git": ["https://github.com/uclapi/uclapi-js-sdk"]
+  },
+  "uclapi/uclapi": {
+    "github": ["https://github.com/uclapi/uclapi"],
+    "git": ["https://github.com/uclapi/uclapi"]
+  },
+  "uclapi/uclapi.github.io": {
+    "github": ["https://github.com/uclapi/uclapi.github.io"],
+    "git": ["https://github.com/uclapi/uclapi.github.io"]
+  },
+  "uclapi/uclapyi": {
+    "github": ["https://github.com/uclapi/uclapyi"],
+    "git": ["https://github.com/uclapi/uclapyi"]
+  },
+  "uclapi/UCLRoomFinder": {
+    "github": ["https://github.com/uclapi/UCLRoomFinder"],
+    "git": ["https://github.com/uclapi/UCLRoomFinder"]
+  },
+  "uclapi/unofficial-apis-demo": {
+    "github": ["https://github.com/uclapi/unofficial-apis-demo"],
+    "git": ["https://github.com/uclapi/unofficial-apis-demo"]
+  },
+  "uclapi/unofficial-apis": {
+    "github": ["https://github.com/uclapi/unofficial-apis"],
+    "git": ["https://github.com/uclapi/unofficial-apis"]
+  },
+  "uclapi/uptime-checker": {
+    "github": ["https://github.com/uclapi/uptime-checker"],
+    "git": ["https://github.com/uclapi/uptime-checker"]
+  },
+  "uclapi/webhook_demo_app": {
+    "github": ["https://github.com/uclapi/webhook_demo_app"],
+    "git": ["https://github.com/uclapi/webhook_demo_app"]
+  },
+  "uclapi/wiki": {
+    "github": ["https://github.com/uclapi/wiki"],
+    "git": ["https://github.com/uclapi/wiki"]
+  },
+  "uclchem/3D-PDR": {
+    "github": ["https://github.com/uclchem/3D-PDR"],
+    "git": ["https://github.com/uclchem/3D-PDR"]
+  },
+  "uclchem/Chemulator": {
+    "github": ["https://github.com/uclchem/Chemulator"],
+    "git": ["https://github.com/uclchem/Chemulator"]
+  },
+  "uclchem/HITS": {
+    "github": ["https://github.com/uclchem/HITS"],
+    "git": ["https://github.com/uclchem/HITS"]
+  },
+  "uclchem/neuralpdr": {
+    "github": ["https://github.com/uclchem/neuralpdr"],
+    "git": ["https://github.com/uclchem/neuralpdr"]
+  },
+  "uclchem/SpectralRadex": {
+    "github": ["https://github.com/uclchem/SpectralRadex"],
+    "git": ["https://github.com/uclchem/SpectralRadex"]
+  },
+  "uclchem/uclchem-tools": {
+    "github": ["https://github.com/uclchem/uclchem-tools"],
+    "git": ["https://github.com/uclchem/uclchem-tools"]
+  },
+  "uclchem/UCLCHEM": {
+    "github": ["https://github.com/uclchem/UCLCHEM"],
+    "git": ["https://github.com/uclchem/UCLCHEM"]
+  },
+  "uclchem/uclchem.github.io": {
+    "github": ["https://github.com/uclchem/uclchem.github.io"],
+    "git": ["https://github.com/uclchem/uclchem.github.io"]
+  },
+  "uclchem/uclpdr": {
+    "github": ["https://github.com/uclchem/uclpdr"],
+    "git": ["https://github.com/uclchem/uclpdr"]
+  },
+  "uclh-criu/cogstack-streamlit-components": {
+    "github": ["https://github.com/uclh-criu/cogstack-streamlit-components"],
+    "git": ["https://github.com/uclh-criu/cogstack-streamlit-components"]
+  },
+  "uclh-criu/crdm-tools": {
+    "github": ["https://github.com/uclh-criu/crdm-tools"],
+    "git": ["https://github.com/uclh-criu/crdm-tools"]
+  },
+  "uclh-criu/dex-assets": {
+    "github": ["https://github.com/uclh-criu/dex-assets"],
+    "git": ["https://github.com/uclh-criu/dex-assets"]
+  },
+  "uclh-criu/fhir-term-browser": {
+    "github": ["https://github.com/uclh-criu/fhir-term-browser"],
+    "git": ["https://github.com/uclh-criu/fhir-term-browser"]
+  },
+  "uclh-criu/jupyterlab-docker": {
+    "github": ["https://github.com/uclh-criu/jupyterlab-docker"],
+    "git": ["https://github.com/uclh-criu/jupyterlab-docker"]
+  },
+  "uclh-criu/keytrials-assets": {
+    "github": ["https://github.com/uclh-criu/keytrials-assets"],
+    "git": ["https://github.com/uclh-criu/keytrials-assets"]
+  },
+  "uclh-criu/learning-datascience": {
+    "github": ["https://github.com/uclh-criu/learning-datascience"],
+    "git": ["https://github.com/uclh-criu/learning-datascience"]
+  },
+  "uclh-criu/medical-qa-feedback-dashboard": {
+    "github": ["https://github.com/uclh-criu/medical-qa-feedback-dashboard"],
+    "git": ["https://github.com/uclh-criu/medical-qa-feedback-dashboard"]
+  },
+  "uclh-criu/miade-datasets": {
+    "github": ["https://github.com/uclh-criu/miade-datasets"],
+    "git": ["https://github.com/uclh-criu/miade-datasets"]
+  },
+  "uclh-criu/miade-llm": {
+    "github": ["https://github.com/uclh-criu/miade-llm"],
+    "git": ["https://github.com/uclh-criu/miade-llm"]
+  },
+  "uclh-criu/miade-tutorials": {
+    "github": ["https://github.com/uclh-criu/miade-tutorials"],
+    "git": ["https://github.com/uclh-criu/miade-tutorials"]
+  },
+  "uclh-criu/miade": {
+    "github": ["https://github.com/uclh-criu/miade"],
+    "git": ["https://github.com/uclh-criu/miade"]
+  },
+  "uclh-criu/patient-clinical-timeline-extraction": {
+    "github": [
+      "https://github.com/uclh-criu/patient-clinical-timeline-extraction"
+    ],
+    "git": ["https://github.com/uclh-criu/patient-clinical-timeline-extraction"]
+  },
+  "uclh-criu/recruit-tests": {
+    "github": ["https://github.com/uclh-criu/recruit-tests"],
+    "git": ["https://github.com/uclh-criu/recruit-tests"]
+  },
+  "uclh-criu/safeLLM": {
+    "github": ["https://github.com/uclh-criu/safeLLM"],
+    "git": ["https://github.com/uclh-criu/safeLLM"]
+  },
+  "uclh-criu/streamlit-ui": {
+    "github": ["https://github.com/uclh-criu/streamlit-ui"],
+    "git": ["https://github.com/uclh-criu/streamlit-ui"]
+  },
+  "uclh-criu/synthetic-llm-medical-text": {
+    "github": ["https://github.com/uclh-criu/synthetic-llm-medical-text"],
+    "git": ["https://github.com/uclh-criu/synthetic-llm-medical-text"]
+  },
+  "uclnlp/ac-ing": {
+    "github": ["https://github.com/uclnlp/ac-ing"],
+    "git": ["https://github.com/uclnlp/ac-ing"]
+  },
+  "uclnlp/acl2015tutorial": {
+    "github": ["https://github.com/uclnlp/acl2015tutorial"],
+    "git": ["https://github.com/uclnlp/acl2015tutorial"]
+  },
+  "uclnlp/adversarial-nli": {
+    "github": ["https://github.com/uclnlp/adversarial-nli"],
+    "git": ["https://github.com/uclnlp/adversarial-nli"]
+  },
+  "uclnlp/ai4exams": {
+    "github": ["https://github.com/uclnlp/ai4exams"],
+    "git": ["https://github.com/uclnlp/ai4exams"]
+  },
+  "uclnlp/APE": {
+    "github": ["https://github.com/uclnlp/APE"],
+    "git": ["https://github.com/uclnlp/APE"]
+  },
+  "uclnlp/bibtex": {
+    "github": ["https://github.com/uclnlp/bibtex"],
+    "git": ["https://github.com/uclnlp/bibtex"]
+  },
+  "uclnlp/cqd": {
+    "github": ["https://github.com/uclnlp/cqd"],
+    "git": ["https://github.com/uclnlp/cqd"]
+  },
+  "uclnlp/ctp": {
+    "github": ["https://github.com/uclnlp/ctp"],
+    "git": ["https://github.com/uclnlp/ctp"]
+  },
+  "uclnlp/d4": {
+    "github": ["https://github.com/uclnlp/d4"],
+    "git": ["https://github.com/uclnlp/d4"]
+  },
+  "uclnlp/egal": {
+    "github": ["https://github.com/uclnlp/egal"],
+    "git": ["https://github.com/uclnlp/egal"]
+  },
+  "uclnlp/EMAT": {
+    "github": ["https://github.com/uclnlp/EMAT"],
+    "git": ["https://github.com/uclnlp/EMAT"]
+  },
+  "uclnlp/emoji2vec": {
+    "github": ["https://github.com/uclnlp/emoji2vec"],
+    "git": ["https://github.com/uclnlp/emoji2vec"]
+  },
+  "uclnlp/eqa-tools": {
+    "github": ["https://github.com/uclnlp/eqa-tools"],
+    "git": ["https://github.com/uclnlp/eqa-tools"]
+  },
+  "uclnlp/fakenewschallenge": {
+    "github": ["https://github.com/uclnlp/fakenewschallenge"],
+    "git": ["https://github.com/uclnlp/fakenewschallenge"]
+  },
+  "uclnlp/fever": {
+    "github": ["https://github.com/uclnlp/fever"],
+    "git": ["https://github.com/uclnlp/fever"]
+  },
+  "uclnlp/gntp": {
+    "github": ["https://github.com/uclnlp/gntp"],
+    "git": ["https://github.com/uclnlp/gntp"]
+  },
+  "uclnlp/HTML2Stanford": {
+    "github": ["https://github.com/uclnlp/HTML2Stanford"],
+    "git": ["https://github.com/uclnlp/HTML2Stanford"]
+  },
+  "uclnlp/inferbeddings": {
+    "github": ["https://github.com/uclnlp/inferbeddings"],
+    "git": ["https://github.com/uclnlp/inferbeddings"]
+  },
+  "uclnlp/jack": {
+    "github": ["https://github.com/uclnlp/jack"],
+    "git": ["https://github.com/uclnlp/jack"]
+  },
+  "uclnlp/low-rank-logic": {
+    "github": ["https://github.com/uclnlp/low-rank-logic"],
+    "git": ["https://github.com/uclnlp/low-rank-logic"]
+  },
+  "uclnlp/newshack": {
+    "github": ["https://github.com/uclnlp/newshack"],
+    "git": ["https://github.com/uclnlp/newshack"]
+  },
+  "uclnlp/ntp": {
+    "github": ["https://github.com/uclnlp/ntp"],
+    "git": ["https://github.com/uclnlp/ntp"]
+  },
+  "uclnlp/NumberMatrixCompletion": {
+    "github": ["https://github.com/uclnlp/NumberMatrixCompletion"],
+    "git": ["https://github.com/uclnlp/NumberMatrixCompletion"]
+  },
+  "uclnlp/numerate-language-models": {
+    "github": ["https://github.com/uclnlp/numerate-language-models"],
+    "git": ["https://github.com/uclnlp/numerate-language-models"]
+  },
+  "uclnlp/pycodesuggest": {
+    "github": ["https://github.com/uclnlp/pycodesuggest"],
+    "git": ["https://github.com/uclnlp/pycodesuggest"]
+  },
+  "uclnlp/simpleNumericalFactChecker": {
+    "github": ["https://github.com/uclnlp/simpleNumericalFactChecker"],
+    "git": ["https://github.com/uclnlp/simpleNumericalFactChecker"]
+  },
+  "uclnlp/skyline": {
+    "github": ["https://github.com/uclnlp/skyline"],
+    "git": ["https://github.com/uclnlp/skyline"]
+  },
+  "uclnlp/softconf-start-sync": {
+    "github": ["https://github.com/uclnlp/softconf-start-sync"],
+    "git": ["https://github.com/uclnlp/softconf-start-sync"]
+  },
+  "uclnlp/stat-nlp-book-scala": {
+    "github": ["https://github.com/uclnlp/stat-nlp-book-scala"],
+    "git": ["https://github.com/uclnlp/stat-nlp-book-scala"]
+  },
+  "uclnlp/stat-nlp-book": {
+    "github": ["https://github.com/uclnlp/stat-nlp-book"],
+    "git": ["https://github.com/uclnlp/stat-nlp-book"]
+  },
+  "uclnlp/stat-nlp-course": {
+    "github": ["https://github.com/uclnlp/stat-nlp-course"],
+    "git": ["https://github.com/uclnlp/stat-nlp-course"]
+  },
+  "uclnlp/torch-imle": {
+    "github": ["https://github.com/uclnlp/torch-imle"],
+    "git": ["https://github.com/uclnlp/torch-imle"]
+  }
 }
